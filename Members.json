@@ -1,11 +1,21 @@
 [
     {
         "Name":"Rajendra Kumar Dangi",
-        "Type":"Platanium",
+        "Type":"Titanium",
         "Education":"Aircraft Maintenance Engineer",
         "Branch":"B1",
         "Modules":"All Passed",
         "License":"NA",
+        "Date":"26-05-2023"
+
+    },
+    {
+        "Name":"Adarsh Pandey",
+        "Type":"Titanium",
+        "Education":"Aircraft Maintenance Engineer",
+        "Branch":"B1",
+        "Modules":"All Passed",
+        "License":"Yes",
         "Date":"26-10-2024"
 
     },
