@@ -1,0 +1,22 @@
+[
+    {
+        "Name":"Rajendra Kumar Dangi",
+        "Type":"Platanium",
+        "Education":"Aircraft Maintenance Engineer",
+        "Branch":"B1",
+        "Modules":"All Passed",
+        "License":"NA",
+        "Date":"26-10-2024"
+
+    },
+    {
+        "Name":"Abhishek Pal",
+        "Type":"Gold",
+        "Education":"Aircraft Maintenance Engineer",
+        "Branch":"B2",
+        "Modules":"All Passed",
+        "License":"NA",
+        "Date":"26-10-2024"
+
+    }
+]
