@@ -1,0 +1,188 @@
+[
+    {
+      "question": "A neutron has",
+      "options": ["the opposite charge to an Electron \rbut half the weight of a proton","the same charge as an Electron but \rhalf the mass","no electrical charge but will add \rweight to the nucleus"],
+      "answer": 2,
+      "reference": "update soon."
+    },
+    {
+      "question": "When the electrons are at rest condition then electricity is called as…..",
+      "options": ["Dynamic electricity", "Static electricity", "Zero electricity", "Motion electricity"],
+      "answer": 1,
+      "reference": "Ref(9A page no.10-17)"
+    },
+    {
+      "question": "An accumulation of hydrogen on the plates of a battery is known as ",
+      "options": [
+        "hydration",
+        "polarization",
+        "ionization",
+        "none of the above"
+      ],
+      "answer": 1,
+      "reference": "Ref(module 3,EASA page no. 5.1)"
+    },
+    {
+      "question": "The voltage of a secondary cell is",
+      "options": ["determined by the number of plates ", "determined by the area of the plates", "determined by the active materials on the plates", "determined by the shape of the plates "],
+      "answer": 2,
+      "reference": "Ref(9A page no.10-94)"
+    },
+    {
+      "question": ". If a Ni-cad battery is not to be used immediately it should be stored",
+      "options": ["fully charged ", ". fully dissipated", "dry", "wet"],
+      "answer": 1,
+      "reference": " Ref(9A page no.10-90)"
+    },
+    {
+      "question": "The electrolyte in a Ni-cad battery would rise if the battery was",
+      "options": ["discharging ", "charging", "remaining at constant voltage", "none of the above"],
+      "answer": 1,
+      "reference": "Ref(9A page no.10-90)"
+    },
+    {
+      "question": "The capacity of a battery is measured in",
+      "options": ["volts", "ampere", "cubic centimeters", "ampere-hours"],
+      "answer": 3,
+      "reference": "Ref(9A page no.10-90)"
+    },
+    {
+      "question": "Battery charging equipment is generally installed",
+      "options": ["In well ventilated location ", "In clean and dry place", "As near as practical to the battery being charged", "In location having all above features"],
+      "answer": 3,
+      "reference": " Ref(Esmin page no.3-43)"
+    },
+    {
+      "question": " Following will happen if battery charging rate is too high discharging ",
+      "options": ["Excessive gassing will occur", "Temperature rise will occur", "Bulging and buckling of plates we occur", "All of the above"],
+      "answer": 3,
+      "reference": "Ref(Esmin page no.3-43)"
+    },
+    {
+      "question": "Battery container should be acid resistance therefore it is made up of",
+      "options": ["Glass", "Plastic", "Wood", "All of the above"],
+      "answer": 3,
+      "reference": "Ref(Esmin page no.3-43)"
+    },
+    {
+      "question": "The following indicate that battery on charge has attained full charge",
+      "options": ["Colour of electrode", "Gassing", "Specific gravity", "All of the above"],
+      "answer": 3,
+      "reference": "Ref(Esmin, page no. 10-43)"
+    },
+    {
+      "question": " To prevent local action in battery, only ............is used in electrolytes",
+      "options": ["Pump water", "Distilled water", "Tap water", "Both A and C"],
+      "answer": 1,
+      "reference": "Ref(Esmin, page no. 10-43)"
+    },
+    {
+      "question": "Ampere hour capacity of an industrial battery is based on ..........hours discharge rate",
+      "options": ["8", "12", "16", "24"],
+      "answer": 0,
+      "reference": "Ref(Esmin, page no. 10-43)"
+    },
+    {
+      "question": "Which of the following battery is used for aircraft?",
+      "options": [". Lead acid battery", "Nickel-cadmium battery", "Dry cell battery", "Silver oxide battery"],
+      "answer": 1,
+      "reference": "Ref(Esmin, page no. 10-37)"
+    },
+    {
+      "question": "The output voltage of a lead-acid cell is about",
+      "options": ["1.5 V", "2.2 V", "1.25 V", "6 v"],
+      "answer": 1,
+      "reference": "Ref(BLT Electronics, page no. 84)"
+    },
+    {
+      "question": "Sulphation in cell means",
+      "options": ["to charge the cell at slow rate", "to discharge it at slow rate", "sulphate layer of active material becomes hard and useless", "boiling of electrolyte"],
+      "answer": 2,
+      "reference": "Ref(9A, page no. 309)"
+    },
+    {
+      "question": " Factors affecting the capacity of cell are",
+      "options": ["rate of discharge or recharge", "no of plates area of plates", "density of electrolyte and active material mass", "all of the above"],
+      "answer": 3,
+      "reference": "Ref(9A, page no. 311)"
+    },
+    {
+      "question": "The negative terminal of a battery means it has ----",
+      "options": ["excess of electrons", "excess of protons", "deficiency of electrons", "All of above are correct"],
+      "answer": 0,
+      "reference": "Ref(Grob, page no. 356)"
+    },
+    {
+      "question": "The current delivering capacity of a cell depends on",
+      "options": ["condition of the electrolyte", "specific gravity of electrolyte", "physical size of electrode", "all the above are correct"],
+      "answer": 3,
+      "reference": "Ref(9A, page no. 314)"
+    },
+    {
+      "question": "Which of the following is a dry but rechargeable cell",
+      "options": ["nickel-cadmium cell", "mercury cell", "lead-acid cell", "solar cell"],
+      "answer": 0,
+      "reference": "Ref(BLT ELECTRONICS, page no. Page no 84)"
+    },
+    {
+      "question": "Rating of a battery is usually expressed in",
+      "options": ["watt-hour", "joule", "ampere-hour", "amperes"],
+      "answer": 2,
+      "reference": "Ref(BLT ELECTRONICS, page no. Page no 84)"
+    },
+    {
+      "question": "Which method is used to rapidly charge the battery",
+      "options": ["Constant current and varying voltage method", "Varying voltage and varying current method", "Constant voltage and varying current method", "None of above"],
+      "answer": 2,
+      "reference": "Ref(Esmin, page no. 10-42)"
+    },
+    {
+      "question": "The sum of the voltage rises is equal to the sum of the voltage drops around a closed loop in a circuit, is statement of………",
+      "options": ["Ohms law", "Kirchhoff’s current law", "Kirchhoff’s voltage law", "Lenz law"],
+      "answer": 2,
+      "reference": "Ref(9A pag.no-10-17)"
+    },
+    {
+      "question": "How much is the resistance in a circuit if 15 V of potential difference produces 5 A of current…",
+      "options": ["30 k Ω", "3 M Ω", "300 k Ω", "3 Ω"],
+      "answer": 3,
+      "reference": "Ref(9A pag.no-10-17)"
+    },
+    {
+      "question": "Two resistances R1 and R2 of 5Ω each and R3 of 10Ω are in series. How much is RT ?",
+      "options": ["20 Ω", "30Ω", "25Ω", "15Ω"],
+      "answer": 0,
+      "reference": "Ref(9A pag.no-10-36)"
+    },
+    {
+      "question": "……Is set of branches forming a closed path in a network.",
+      "options": ["Node", "Loop", "Junction", "Branch"],
+      "answer": 1,
+      "reference": "Ref(9a pag.no-10-39)"
+    },
+    {
+      "question": "The algebraic sum of all currents entering or leaving a node must be equal to zero. It is statement of…",
+      "options": ["Ohms laws", "Kirchhoff’s voltage law", "Kirchhoff’s current law", "Thevenin’s theorem"],
+      "answer": 2,
+      "reference": "Ref(9a pag.no-10-17)"
+    },
+    {
+      "question": "A resistance of 15Ω carries a current of 5amp, then voltage is……",
+      "options": ["75 amp", "75Ω", "75volts", "75watt"],
+      "answer": 2,
+      "reference": "Ref(9a pag.no-10-18)"
+    },
+    {
+      "question": "If there is no circuit element between two point then circuit is…",
+      "options": ["Circuit", "Linear Circuit", "Short circuit", "Open circuit"],
+      "answer": 3,
+      "reference": "Ref(9A pag.no-10-17)"
+    },
+    {
+      "question": "Statement of kirchhoff’s current law is..",
+      "options": ["∑I=0", "∑V=0", "None of the above", "NA"],
+      "answer": 0,
+      "reference": "Ref(9A pag.no-10-35)"
+    }
+  ]
+  
