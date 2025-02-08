@@ -1,149 +1,54 @@
 [
-    {
-      "question": ".In a parallel circuit general formula for calculating current is ….",
-      "options": ["IT=I1+I2+I3……In", "IT=0", "IT=VT", "None of the above"],
-      "answer": 0,
-      "reference": "Ref(9A pag.no-10-41)"
-    },
-    {
-      "question": ".If voltage applied to circuit is 12V and total resistance is 40Ω then calculate total current flowing through circuit………",
-      "options": ["0.12A", "0.3A", "1A", "None of the above"],
+  {
+      "question": "What is the minimum age requirement for obtaining a Remote Pilot License in India?",
+      "options": ["16 years", "18 years", "21 years", "25 years"],
       "answer": 1,
-      "reference": "Ref.(9a pag.no-10-35)"
-    },
-    {
-      "question": ".In series circuit formula for finding voltage is…",
-      "options": ["Es= IRT", "Es= VRT", "None of the above", "NA"],
-      "answer": 0,
-      "reference": "Ref. (9A pag.no-10-36"
-    },
-    {
-      "question": "In an alternating current Star wired system, the phase voltage is 115 volts and the line voltage will be approximately.",
-      "options": ["200 volts", "115 volts", "163 volts", "NA"],
-      "answer": 0,
-      "reference": "Nil"
-    },
-    {
-      "question": "An alternating current generator is operating at 50 kVA in a circuit with a power factor of 0.8. The real power is",
-      "options": ["40kW.", "72kW", "50kW", "NA"],
-      "answer": 0,
-      "reference": "Nil"
-    },
-    {
-      "question": "The two factors which govern the output frequency of an AC generator are the.",
+      "reference": "The minimum age requirement for obtaining a Remote Pilot License (RPL) in India is 18 years as per DGCA guidelines&#8203;:contentReference[oaicite:0]{index=0}."
+  },
+  {
+      "question": "Which certification is mandatory for drone operations in controlled airspace?",
+      "options": ["UIN", "UAOP", "NPNT", "COA"],
+      "answer": 1,
+      "reference": "An Unmanned Aircraft Operator Permit (UAOP) is required for drone operations in controlled airspace&#8203;:contentReference[oaicite:1]{index=1}."
+  },
+  {
+      "question": "What does 'Digital Sky' refer to in the context of drone regulations?",
       "options": [
-        "the number of poles (in pairs) and the rotor RPM.",
-        "strength of the stator field flux and number of poles",
-        "speed of rotation of the rotor and the stator field flux strength",
-        "NA"
+          "A new satellite communication system",
+          "An automated air traffic control system",
+          "A platform for registering and approving drone operations",
+          "A drone pilot training program"
       ],
+      "answer": 2,
+      "reference": "Digital Sky is the national unmanned traffic management (UTM) platform designed for the registration, operation, and management of drones&#8203;:contentReference[oaicite:2]{index=2}."
+  },
+  {
+      "question": "Which category of drones requires real-time tracking and geo-fencing features?",
+      "options": ["Nano", "Micro", "Small", "Medium and above"],
+      "answer": 3,
+      "reference": "Drones categorized as Medium (greater than 25kg) and above require real-time tracking and geo-fencing as per DGCA guidelines&#8203;:contentReference[oaicite:3]{index=3}."
+  },
+  {
+      "question": "What is the maximum speed allowed for drones operating in the Green Zone?",
+      "options": ["25 m/s", "50 m/s", "60 m/s", "100 m/s"],
       "answer": 0,
-      "reference": "Nil"
-    },
-    {
-      "question": "In a deltaconnected generator",
+      "reference": "Drones operating in the Green Zone are restricted to a maximum speed of 25 meters per second&#8203;:contentReference[oaicite:4]{index=4}."
+  },
+  {
+      "question": "What is the penalty for unauthorized drone operations in restricted airspace?",
       "options": [
-        "line voltage = root 3 times phase voltage, line current = phase current",
-        "line volts = phase volts, line current = phase current divided by root 3",
-        "line volts = phase volts, line current = root 3 times phase current",
-        "NA"
+          "Fine up to INR 25,000",
+          "License suspension",
+          "Confiscation of drone and legal action",
+          "All of the above"
       ],
-      "answer": 0,
-      "reference": "Nil"
-    },
-    {
-      "question": "When measuring the phase and line voltages of a generator, it was found that line and phase voltages were equal. The generator is?",
-      "options": [
-        "either delta or star wound",
-        "delta wound.",
-        "star wound",
-        "NA"
-      ],
-      "answer": 1,
-      "reference": "Nil"
-    },
-    {
-      "question": "The permanent magnet in an A.C generator induces.",
-      "options": [
-        "A.C. in the main generator",
-        "A.C. in the exciter generator",
-        "D.C. in the exciter generator",
-        "NA"
-      ],
-      "answer": 1,
-      "reference": "Nil"
-    },
-    {
-      "question": "If the phase voltage in a star connected generator is 200V what will be the line voltage?",
-      "options": ["115V", "346V", "200V", "NA"],
-      "answer": 1,
-      "reference": "Star connected generator - line voltage is 1.73 * phase voltage"
-    },
-    {
-      "question": "A generator is labeled as having 115V/200V, 20A and PF 0.8. What is the apparent power in each line that the generator can produce?",
-      "options": ["2.3kVA", "2.3kW", "4kVA", "NA"],
+      "answer": 3,
+      "reference": "Unauthorized drone operations in restricted airspace may result in fines, suspension of licenses, confiscation, and legal action&#8203;:contentReference[oaicite:5]{index=5}."
+  },
+  {
+      "question": "Which of the following is NOT a recognized category of drone classification in India?",
+      "options": ["Nano", "Micro", "Compact", "Large"],
       "answer": 2,
-      "reference": "Apparent power is measured in VA. Line voltage is 200V (always the higher of the two voltages - and the presence of 2 voltages confirms it as star wound). So 200 * 20 = 4 KVA (PF not required)."
-    },
-    {
-      "question": "AC generators are rated in.",
-      "options": ["kVA", "kVARs", "kW", "NA"],
-      "answer": 0,
-      "reference": "Nil"
-    },
-    {
-      "question": "The frequency of the output of a 4 pole generator is 400 Hz. The generator is turning at.",
-      "options": ["6000 RPM", "12000 RPM", "3000 RPM", "NA"],
-      "answer": 1,
-      "reference": "Get the formula for frequency"
-    },
-    {
-      "question": "The voltage induced in the stator of an AC generator is produced by.",
-      "options": ["an alternating field", "a rotating magnetic field", "a fixed magnetic field", "NA"],
-      "answer": 1,
-      "reference": "Nil"
-    },
-    {
-      "question": "A 30 KVA rated generator has a power factor of 0.8. What is its maximum consistent power?.",
-      "options": ["30 KW", "37.5 KW", "24 KW", "NA"],
-      "answer": 2,
-      "reference": "Power factor = true power /apparent power"
-    },
-    {
-      "question": "The three voltages of a three phase generator are connected",
-      "options": ["in series with each other", "independently of each other", "in parallel with each other", "NA"],
-      "answer": 1,
-      "reference": "Nil"
-    },
-    {
-      "question": "In a 2 phase generator, how far apart are the windings electrically?.",
-      "options": ["45°", "180°", "90°", "NA"],
-      "answer": 2,
-      "reference": "Nil"
-    },
-    {
-      "question": "Where are the output windings on an AC generator?",
-      "options": ["Rotor with slip rings", "Rotor with commutator", "Stator", "NA"],
-      "answer": 2,
-      "reference": "Nil"
-    },
-    {
-      "question": "The line voltage from a generator with a delta type connection will be.",
-      "options": ["lower than the phase voltage", "higher than the phase voltage", "the same as the phase voltage", "NA"],
-      "answer": 2,
-      "reference": "Line and phase voltages are the same with a delta connections (it is the current that is different)."
-    },
-    {
-      "question": "An advantage of a star connected generator over a delta connected generator is",
-      "options": ["the line and phase voltages are equal", "two potentials are available", "a balance load is guaranteed", "NA"],
-      "answer": 1,
-      "reference": "Nil"
-    },
-    {
-      "question": "Permanent magnets in an AC generator are",
-      "options": ["to provide initial excitation", "to control the frequency", "to rectify the current", "NA"],
-      "answer": 0,
-      "reference": "Nil"
-    }
-  ]
-  
+      "reference": "DGCA classifies drones into Nano, Micro, Small, Medium, and Large categories&#8203;:contentReference[oaicite:6]{index=6}."
+  }
+]

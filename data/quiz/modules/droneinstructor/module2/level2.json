@@ -1,149 +1,65 @@
 [
-    {
-      "question": ".In a parallel circuit general formula for calculating current is ….",
-      "options": ["IT=I1+I2+I3……In", "IT=0", "IT=VT", "None of the above"],
-      "answer": 0,
-      "reference": "Ref(9A pag.no-10-41)"
-    },
-    {
-      "question": ".If voltage applied to circuit is 12V and total resistance is 40Ω then calculate total current flowing through circuit………",
-      "options": ["0.12A", "0.3A", "1A", "None of the above"],
+  {
+      "question": "Which force resists the forward motion of an aircraft?",
+      "options": ["Thrust", "Drag", "Lift", "Gravity"],
       "answer": 1,
-      "reference": "Ref.(9a pag.no-10-35)"
-    },
-    {
-      "question": ".In series circuit formula for finding voltage is…",
-      "options": ["Es= IRT", "Es= VRT", "None of the above", "NA"],
-      "answer": 0,
-      "reference": "Ref. (9A pag.no-10-36"
-    },
-    {
-      "question": "In an alternating current Star wired system, the phase voltage is 115 volts and the line voltage will be approximately.",
-      "options": ["200 volts", "115 volts", "163 volts", "NA"],
-      "answer": 0,
-      "reference": "Nil"
-    },
-    {
-      "question": "An alternating current generator is operating at 50 kVA in a circuit with a power factor of 0.8. The real power is",
-      "options": ["40kW.", "72kW", "50kW", "NA"],
-      "answer": 0,
-      "reference": "Nil"
-    },
-    {
-      "question": "The two factors which govern the output frequency of an AC generator are the.",
+      "reference": "Drag is the aerodynamic force that opposes the aircraft's motion through the air&#8203;:contentReference[oaicite:0]{index=0}."
+  },
+  {
+      "question": "Which flight control surface is responsible for controlling pitch?",
+      "options": ["Ailerons", "Elevators", "Rudder", "Flaps"],
+      "answer": 1,
+      "reference": "Elevators control the pitch of an aircraft, adjusting its nose up or down&#8203;:contentReference[oaicite:1]{index=1}."
+  },
+  {
+      "question": "What happens when an aircraft exceeds its critical angle of attack?",
       "options": [
-        "the number of poles (in pairs) and the rotor RPM.",
-        "strength of the stator field flux and number of poles",
-        "speed of rotation of the rotor and the stator field flux strength",
-        "NA"
-      ],
-      "answer": 0,
-      "reference": "Nil"
-    },
-    {
-      "question": "In a deltaconnected generator",
-      "options": [
-        "line voltage = root 3 times phase voltage, line current = phase current",
-        "line volts = phase volts, line current = phase current divided by root 3",
-        "line volts = phase volts, line current = root 3 times phase current",
-        "NA"
-      ],
-      "answer": 0,
-      "reference": "Nil"
-    },
-    {
-      "question": "When measuring the phase and line voltages of a generator, it was found that line and phase voltages were equal. The generator is?",
-      "options": [
-        "either delta or star wound",
-        "delta wound.",
-        "star wound",
-        "NA"
+          "It gains more lift",
+          "It goes into a stall",
+          "It accelerates",
+          "It loses thrust"
       ],
       "answer": 1,
-      "reference": "Nil"
-    },
-    {
-      "question": "The permanent magnet in an A.C generator induces.",
+      "reference": "When an aircraft exceeds its critical angle of attack, the airflow separates from the wing, causing a stall&#8203;:contentReference[oaicite:2]{index=2}."
+  },
+  {
+      "question": "Which of the following is NOT a primary flight control surface?",
+      "options": ["Ailerons", "Elevators", "Flaps", "Rudder"],
+      "answer": 2,
+      "reference": "Flaps are secondary flight controls used to increase lift and drag, while ailerons, elevators, and rudder are primary controls&#8203;:contentReference[oaicite:3]{index=3}."
+  },
+  {
+      "question": "What type of stability ensures an aircraft continues on its current flight path without pilot input?",
       "options": [
-        "A.C. in the main generator",
-        "A.C. in the exciter generator",
-        "D.C. in the exciter generator",
-        "NA"
+          "Positive stability",
+          "Negative stability",
+          "Neutral stability",
+          "Dynamic stability"
+      ],
+      "answer": 0,
+      "reference": "Positive stability ensures that an aircraft returns to its original flight path after being disturbed&#8203;:contentReference[oaicite:4]{index=4}."
+  },
+  {
+      "question": "Which aerodynamic principle explains the generation of lift?",
+      "options": [
+          "Newton's Third Law",
+          "Bernoulli's Principle",
+          "Boyle’s Law",
+          "Archimedes' Principle"
       ],
       "answer": 1,
-      "reference": "Nil"
-    },
-    {
-      "question": "If the phase voltage in a star connected generator is 200V what will be the line voltage?",
-      "options": ["115V", "346V", "200V", "NA"],
+      "reference": "Bernoulli’s Principle states that faster-moving air over the wing creates lower pressure, generating lift&#8203;:contentReference[oaicite:5]{index=5}."
+  },
+  {
+      "question": "Which type of flight movement is controlled by the rudder?",
+      "options": ["Pitch", "Yaw", "Roll", "Heave"],
       "answer": 1,
-      "reference": "Star connected generator - line voltage is 1.73 * phase voltage"
-    },
-    {
-      "question": "A generator is labeled as having 115V/200V, 20A and PF 0.8. What is the apparent power in each line that the generator can produce?",
-      "options": ["2.3kVA", "2.3kW", "4kVA", "NA"],
-      "answer": 2,
-      "reference": "Apparent power is measured in VA. Line voltage is 200V (always the higher of the two voltages - and the presence of 2 voltages confirms it as star wound). So 200 * 20 = 4 KVA (PF not required)."
-    },
-    {
-      "question": "AC generators are rated in.",
-      "options": ["kVA", "kVARs", "kW", "NA"],
+      "reference": "Yaw is controlled by the rudder, allowing the aircraft to turn left or right around its vertical axis&#8203;:contentReference[oaicite:6]{index=6}."
+  },
+  {
+      "question": "Which axis runs from the nose to the tail of an aircraft and controls roll?",
+      "options": ["Longitudinal axis", "Lateral axis", "Vertical axis", "Horizontal axis"],
       "answer": 0,
-      "reference": "Nil"
-    },
-    {
-      "question": "The frequency of the output of a 4 pole generator is 400 Hz. The generator is turning at.",
-      "options": ["6000 RPM", "12000 RPM", "3000 RPM", "NA"],
-      "answer": 1,
-      "reference": "Get the formula for frequency"
-    },
-    {
-      "question": "The voltage induced in the stator of an AC generator is produced by.",
-      "options": ["an alternating field", "a rotating magnetic field", "a fixed magnetic field", "NA"],
-      "answer": 1,
-      "reference": "Nil"
-    },
-    {
-      "question": "A 30 KVA rated generator has a power factor of 0.8. What is its maximum consistent power?.",
-      "options": ["30 KW", "37.5 KW", "24 KW", "NA"],
-      "answer": 2,
-      "reference": "Power factor = true power /apparent power"
-    },
-    {
-      "question": "The three voltages of a three phase generator are connected",
-      "options": ["in series with each other", "independently of each other", "in parallel with each other", "NA"],
-      "answer": 1,
-      "reference": "Nil"
-    },
-    {
-      "question": "In a 2 phase generator, how far apart are the windings electrically?.",
-      "options": ["45°", "180°", "90°", "NA"],
-      "answer": 2,
-      "reference": "Nil"
-    },
-    {
-      "question": "Where are the output windings on an AC generator?",
-      "options": ["Rotor with slip rings", "Rotor with commutator", "Stator", "NA"],
-      "answer": 2,
-      "reference": "Nil"
-    },
-    {
-      "question": "The line voltage from a generator with a delta type connection will be.",
-      "options": ["lower than the phase voltage", "higher than the phase voltage", "the same as the phase voltage", "NA"],
-      "answer": 2,
-      "reference": "Line and phase voltages are the same with a delta connections (it is the current that is different)."
-    },
-    {
-      "question": "An advantage of a star connected generator over a delta connected generator is",
-      "options": ["the line and phase voltages are equal", "two potentials are available", "a balance load is guaranteed", "NA"],
-      "answer": 1,
-      "reference": "Nil"
-    },
-    {
-      "question": "Permanent magnets in an AC generator are",
-      "options": ["to provide initial excitation", "to control the frequency", "to rectify the current", "NA"],
-      "answer": 0,
-      "reference": "Nil"
-    }
-  ]
-  
+      "reference": "The longitudinal axis runs from nose to tail and is responsible for roll control via the ailerons&#8203;:contentReference[oaicite:7]{index=7}."
+  }
+]
