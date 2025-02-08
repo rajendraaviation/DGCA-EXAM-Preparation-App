@@ -118,8 +118,10 @@ We value your feedback and are here to support you along the way. If you have an
 ---
 
 ## DGCA Exam Preparation Pro Licensing Information
-'''
+
+```
 All Rights Reserved.
 This code is proprietary and confidential. Unauthorized copying, modification, distribution, or use is strictly prohibited without prior written consent from the owner.
-'''
+
+```
 
