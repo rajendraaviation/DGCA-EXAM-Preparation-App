@@ -1,0 +1,29 @@
+[
+    {"shortForm": "ATC", "fullForm": "Air Traffic Control", "definition": "A service to prevent collisions and ensure safe aircraft operations."},
+    {"shortForm": "VFR", "fullForm": "Visual Flight Rules", "definition": "A set of regulations that allow pilots to operate in clear weather conditions."},
+    {"shortForm": "IFR", "fullForm": "Instrument Flight Rules", "definition": "Regulations that allow aircraft to operate in low visibility using instruments."},
+    {"shortForm": "DGCA", "fullForm": "Directorate General of Civil Aviation", "definition": "The regulatory authority for civil aviation in India."},
+    {"shortForm": "FAA", "fullForm": "Federal Aviation Administration", "definition": "The regulatory body overseeing civil aviation in the USA."},
+    {"shortForm": "ICAO", "fullForm": "International Civil Aviation Organization", "definition": "A specialized agency of the United Nations that sets global aviation standards."},
+    {"shortForm": "ILS", "fullForm": "Instrument Landing System", "definition": "A navigation aid that helps pilots land safely in low visibility conditions."},
+    {"shortForm": "METAR", "fullForm": "Meteorological Aerodrome Report", "definition": "A routine weather report for aviation purposes."},
+    {"shortForm": "TAF", "fullForm": "Terminal Aerodrome Forecast", "definition": "A concise statement of expected weather conditions at an airport."},
+    {"shortForm": "SID", "fullForm": "Standard Instrument Departure", "definition": "A predefined route for aircraft departing from an airport."},
+    {"shortForm": "STAR", "fullForm": "Standard Terminal Arrival Route", "definition": "A predefined route for aircraft arriving at an airport."},
+    {"shortForm": "UTC", "fullForm": "Coordinated Universal Time", "definition": "The time standard used in aviation worldwide."},
+    {"shortForm": "FIR", "fullForm": "Flight Information Region", "definition": "A designated airspace managed by an air traffic control center."},
+    {"shortForm": "NOTAM", "fullForm": "Notice to Airmen", "definition": "Official notices providing important information for flight operations."},
+    {"shortForm": "TCAS", "fullForm": "Traffic Collision Avoidance System", "definition": "A system that alerts pilots of potential mid-air collisions."},
+    {"shortForm": "ADS-B", "fullForm": "Automatic Dependent Surveillance–Broadcast", "definition": "A system that transmits an aircraft’s position to air traffic control."},
+    {"shortForm": "ETOPS", "fullForm": "Extended-range Twin-engine Operations Performance Standards", "definition": "Regulations for twin-engine aircraft operations on long overwater routes."},
+    {"shortForm": "AIRMET", "fullForm": "Airmen’s Meteorological Information", "definition": "A weather advisory for pilots regarding hazardous conditions."},
+    {"shortForm": "SIGMET", "fullForm": "Significant Meteorological Information", "definition": "Warnings for severe weather conditions affecting aviation."},
+    {"shortForm": "ELT", "fullForm": "Emergency Locator Transmitter", "definition": "A device that sends distress signals when an aircraft crashes."},
+    {"shortForm": "FMS", "fullForm": "Flight Management System", "definition": "An onboard computer system that automates flight navigation."},
+    {"shortForm": "RVSM", "fullForm": "Reduced Vertical Separation Minimum", "definition": "A set of rules that reduce vertical separation between aircraft above FL290."},
+    {"shortForm": "ICAO", "fullForm": "International Civil Aviation Organization", "definition": "An agency that sets global standards for aviation safety and efficiency."},
+    {"shortForm": "ETD", "fullForm": "Estimated Time of Departure", "definition": "The planned departure time of an aircraft."},
+    {"shortForm": "ETA", "fullForm": "Estimated Time of Arrival", "definition": "The expected time when an aircraft will reach its destination."}
+  ]
+  
+  
