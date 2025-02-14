@@ -1,0 +1,1283 @@
+[
+
+  {
+    "a" : "rectification",
+    "b" : "voltage stabilization",
+    "c" : "modulation",
+    "d" : "refer",
+    "e" : "Germanium diode has the least forward bias voltage drop and is best for rectification",
+    "ans" : "a",
+    "ques" : "A germanium diode is used for",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "To protect it from AC",
+    "b" : "So it will work only above a certain voltage",
+    "c" : "So it will work only below a certain voltage",
+    "d" : "refer",
+    "e" : "An LED has a high forward bias voltage drop but is easily damaged when reverse biased. AC is therefore not good for an LED",
+    "ans" : "a",
+    "ques" : "Why is a diode put in parallel with an LED?",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "the positive lead of the ohmmeter is placed on the anode",
+    "b" : "it does not matter which terminal the positive lead of the ohmeter is placed",
+    "c" : "the positive lead of the ohmmeter is placed on the cathode",
+    "d" : "refer",
+    "e" : "To test forward bias, the positive lead of the multimeter must be placed on the anode. Note: If the question says 'moving coil meter' then it would be the negative lead on the anode, since the negative side of the battery in such a meter is connected to the + lead. Aircraft Electricity and Electronics 5th Edition Eismin Page 113",
+    "ans" : "a",
+    "ques" : "When testing the forward bias of a diode with a multimeter",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "High voltage handling",
+    "b" : "High power handling",
+    "c" : "High current handling",
+    "d" : "refer",
+    "e" : "A thyristor (such as an SCR) is a high current switching",
+    "ans" : "c",
+    "ques" : "Which of the following describes the characteristics of a Thyristor?",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "a higher forward bias voltage",
+    "b" : "the same forward bias voltage",
+    "c" : "less forward bias voltage",
+    "d" : "refer",
+    "e" : "Si = 0.6V, Ge = 0.2V. Aircraft Electricity and Electronics 5th Edition Eismin Page111",
+    "ques" : "A silicon diode,when compared to a germanium diode has",
+    "ans" : "a",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "allows current to flow in one direction",
+    "b" : "stabilizes voltage at a pre determined level",
+    "c" : "acts like a switch",
+    "d" : "refer",
+    "e" : "Zener diodes are usually used involtage regulator circuits. Aircraft Electricity and Electronics 5th Edition Eismin Page 385",
+    "ques" : "A zener diode",
+    "ans" : "b",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "dissipate coil spikes on switch off",
+    "b" : "allow the coil to energize with only one polarity",
+    "c" : "greatly increases the majority carrier current",
+    "d" : "refer",
+    "e" : "Aircraft Electricity and Electronics 5th Edition Eismin Page 121 reading material",
+    "ques" : "A diode connected across a relay coil is used to",
+    "ans" : "a",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "anode",
+    "b" : "cathode",
+    "c" : "either anode or cathode",
+    "d" : "refer",
+    "e" : "To forward bias a diode with amultimeter, the positive lead must be connected to the anode. Note: If it were a moving coil meter,you must connect the negative lead to the anode since the positive end of the battery is connected to the negative lead",
+    "ques" : "To check the forward resistance of a diode with a multimeter, the lead connected to the positive terminal is put to the",
+    "ans" : "a",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "A positive temperature coefficient",
+    "b" : "High resistance when switched off",
+    "c" : "High resistance when switched on",
+    "d" : "refer",
+    "e" : "The thyristor (such as an SCR orTRIAC) is basically a switch which provides a high resistance when switched off",
+    "ques" : "A thyristor has which of the following?",
+    "ans" : "b",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "The plastic lens cover",
+    "b" : "The electrons",
+    "c" : "The doping material",
+    "d" : "refer",
+    "e" : "The dopant is what gives the LED its colour",
+    "ques" : "In an LED, what isused to make the colour?",
+    "ans" : "c",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "a C type material",
+    "b" : "a P type material",
+    "c" : "an N type material",
+    "d" : "refer",
+    "e" : "An atom with five electrons in its outer shell (pentavalent) will provide an extra free electron and make the material an N type. Aircraft Electricity and Electronics 5th Edition Eismin Page110.",
+    "ques" : "An atom with 5electrons in its outer shell is part of",
+    "ans" : "c",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "overvolts regulation",
+    "b" : "voltage regulation",
+    "c" : "rectification",
+    "d" : "refer",
+    "e" : "A thyristor (especially an SCR) is often used for rectification",
+    "ques" : "A thyristor is commonly used for",
+    "ans" : "c",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "light emitting",
+    "b" : "varactor",
+    "c" : "zener",
+    "d" : "refer",
+    "e" : "Photons = light, so a diode which emits light is a Light Emitting Diode",
+    "ques" : "A diode which emits photons when conducting is a",
+    "ans" : "a",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "gate, cathode, anode",
+    "b" : "source, drain, gate",
+    "c" : "anode, cathode, source",
+    "d" : "refer",
+    "e" : "The electrodes of an SCR are the anode, cathode and the gate. Aircraft Electricity and Electronics 5th Edition Eismin Page 120",
+    "ques" : "The electrodes ofan SCR are",
+    "ans" : "a",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "A gas",
+    "b" : "The cover",
+    "c" : "Composition and impurity of the compound",
+    "d" : "refer",
+    "e" : "It is the doping element which gives an LED its colour",
+    "ques" : "What gives an LED its colour?",
+    "ans" : "c",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "1.6V",
+    "b" : "0.6V",
+    "c" : "0.2V",
+    "d" : "refer",
+    "e" : "Si = 0.6V, Ge = 0.2V Aircraft Electricity and Electronics 5th Edition Eismin Page111 or 113",
+    "ques" : "Forward voltage ofa silicon diode is",
+    "ans" : "b",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "LED",
+    "b" : "Gunn diode",
+    "c" : "Schottky diode",
+    "d" : "refer",
+    "e" : "LEDs give off light (photons) when forward biased",
+    "ques" : "What is the typical volts drop across an LED",
+    "ans" : "a",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "forward biased not conducting",
+    "b" : "reverse biased not conducting",
+    "c" : "forward biased conducting",
+    "d" : "refer",
+    "e" : "Forward bias is anode to cathode.4V fwd bias and 2V reverse bias, the diode is 2V fwd bias in total",
+    "ques" : "The anode of adiode is connected to a +4V DC supply and the cathode is connected to a +2V DC supply. The diode is",
+    "ans" : "c",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "Anode to Cathode",
+    "b" : "Cathode to Base",
+    "c" : "Cathode to Anode",
+    "d" : "refer",
+    "e" : "ELECTRON FLOW (i.e. Americannotation) is cathode to anode (against the arrowdirection). Aircraft Electricity and Electronics 5thEdition Eismin Page 111",
+    "ques" : "Using electronflow in a diode the current flows from",
+    "ans" : "c",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "raises the potential barrier",
+    "b" : "it becomes a minority carrier in then region",
+    "c" : "lowers the potential barrier",
+    "d" : "refer",
+    "e" : "The potential barrier is formed by holes diffusing from the P region to the N region,(and electrons diffusing from the N region to the Pregion)",
+    "ques" : "When a hole diffuses from the p region to the n region",
+    "ans" : "a",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "can handle only small currents",
+    "b" : "is similar to a vacuum diode but can not rectify",
+    "c" : "has one p-n junction",
+    "d" : "refer",
+    "e" : "A junction diode is so named for its one junction. Aircraft Electricity and Electronics 5th Edition Eismin Page 111",
+    "ques" : "A junction diode",
+    "ans" : "c",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "has a lower forward bias voltage than a silicon diode",
+    "b" : "has a higher forward bias voltage than a silicon diode",
+    "c" : "has the same forward bias voltage as a silicon diode",
+    "d" : "refer",
+    "e" : "Forward bias voltage of germanium diode = 0.2 V. Silicon diode = 0.6 V.Aircraft Electricity and Electronics 5th Edition Eismin Page 111",
+    "ques" : "A germanium diode",
+    "ans" : "a",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "Reverse bias gate",
+    "b" : "Remove the gate voltage",
+    "c" : "Remove supply voltage",
+    "d" : "refer",
+    "e" : "To switch off a thyristor (such as an SCR) you must disconnect the supply voltage.Aircraft Electricity and Electronics 5th Edition Eismin Page 120",
+    "ques" : "What switches off a thyristor?",
+    "ans" : "c",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "low resistance",
+    "b" : "no change in resistance",
+    "c" : "high resistance",
+    "d" : "refer",
+    "e" : "An SCR is basically a switch, which,when switched on has a low resistance. Aircraft Electricity and Electronics 5th Edition Eismin Page120",
+    "ques" : "When an SCR is switched on it has",
+    "ans" : "a",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "Positive",
+    "b" : "Negative",
+    "c" : "Positive or negative",
+    "d" : "refer",
+    "e" : "A positive pulse is required to switch an SCR on",
+    "ques" : "What type of pulse is required to switch on an SCR?",
+    "ans" : "a",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "is electrically stable",
+    "b" : "has a deficit of electrons",
+    "c" : "has an excess of electrons",
+    "d" : "refer",
+    "e" : "In a solid piece of semiconductor material, all the valence electrons are occupied inthe covalent bond. It does not conduct electricity.Aircraft Electricity and Electronics 5th Edition Eismin Page 110",
+    "ques" : "A piece of pure Germanium",
+    "ans" : "a",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "germanium bias junction",
+    "b" : "majority carriers",
+    "c" : "minority carriers",
+    "d" : "refer",
+    "e" : "Forward bias = majority carriers",
+    "ques" : "When a diode is forward biased, current flow is mainly due to the",
+    "ans" : "b",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "positive lead is connected to both N and P type",
+    "b" : "positive lead is connected to the N type and negative to the P type",
+    "c" : "positive lead is connected to the P type and negative to the N type",
+    "d" : "refer",
+    "e" : "To forward biased, connect Positive to P, Negative to N. Aircraft Electricity and Electronics 5th Edition Eismin Page 117",
+    "ques" : "When a diode is forward biased the",
+    "ans" : "c",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "2V",
+    "b" : "4V",
+    "c" : "6V",
+    "d" : "refer",
+    "e" : "2V typical",
+    "ques" : "The typical voltage drop across an L.E.D is",
+    "ans" : "a",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "Electrons and holes",
+    "b" : "Holes",
+    "c" : "Electrons",
+    "d" : "refer",
+    "e" : "Majority carriers are electrons in the N material, and holes in the P material",
+    "ques" : "What are the majority carriers for a forward biased PN junction device?",
+    "ans" : "a",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "negatively charged",
+    "b" : "neutral",
+    "c" : "positively charged",
+    "d" : "refer",
+    "e" : "Both germanium and silicon areneutrally charged, even when doped. Aircraft Electricity and Electronics 5th Edition Eismin Page110",
+    "ques" : "Germanium in its pure state is",
+    "ans" : "b",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "Silicon",
+    "b" : "Germanium",
+    "c" : "Both have the same forward bias voltage",
+    "d" : "refer",
+    "e" : "Silicon about 0.6V, Germanium about 0.2V. Aircraft Electricity and Electronics 5thEdition Eismin Page 111",
+    "ques" : "Which diode has a lower forward bias voltage?",
+    "ans" : "b",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "voltage stabilisation",
+    "b" : "rectification",
+    "c" : "voltage regulation",
+    "d" : "refer",
+    "e" : "A Zener diode is used for voltage regulation. Aircraft Electricity and Electronics 5thEdition Eismin Page 120",
+    "ques" : "A Zener diode is used for",
+    "ans" : "c",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "Thyristor",
+    "b" : "Diode",
+    "c" : "Transistor",
+    "d" : "refer",
+    "e" : "Although a thyristor (SCR) can beused, a diode is more common. Aircraft Electricity and Electronics 5th Edition Eismin Page 113",
+    "ques" : "What componentis used to turn AC to DC?",
+    "ans" : "b",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "One with added elements",
+    "b" : "One with removed elements",
+    "c" : "A pure material",
+    "d" : "refer",
+    "e" : "Intrinsic is a pure material",
+    "ques" : "What is anintrinsic material?",
+    "ans" : "c",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "1 V",
+    "b" : "0.7V",
+    "c" : "0.3V",
+    "d" : "refer",
+    "e" : "Aircraft Electricity and Electronics 5th Edition Eismin Page 111",
+    "ques" : "The voltage dropof a silicon diode is",
+    "ans" : "b",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "provide correct amount of current for LED when circuit is switched on",
+    "b" : "prevent back EMF in the circuit when LED is switched off",
+    "c" : "protect LED from AC current when switched on",
+    "d" : "refer",
+    "e" : "The negative half cycle of the AC must be by passed around the LED",
+    "ques" : "A diode is parallel to an LED in an AC circuit to",
+    "ans" : "c",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "majority carriers",
+    "b" : "both",
+    "c" : "minority carriers",
+    "d" : "refer",
+    "e" : "Forward bias is both, reverse biasis minority carriers only",
+    "ques" : "In a forward biased diode, current is carried by",
+    "ans" : "b",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "anode and negative lead to earth",
+    "b" : "cathode and negative lead to anode",
+    "c" : "anode and negative lead to cathode",
+    "d" : "refer",
+    "e" : "Positive lead to cathode",
+    "ques" : "When checking a diode for reverse bias resistance the positive lead goes to",
+    "ans" : "b",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "the anode",
+    "b" : "the cathode",
+    "c" : "the doped area",
+    "d" : "refer",
+    "e" : "explainAnswer3=Electrons jump accross the depletion layer from the Cathode (-ve)to the Anode (+ve) to recombine with the holes and close the depletion layer.",
+    "ques" : "In a forward biased diode, electrons leave the",
+    "ans" : "b",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "conductors",
+    "b" : "semi-conductors",
+    "c" : "Insulators",
+    "d" : "refer",
+    "e" : "Only answer which is correct in both bias configurations",
+    "ques" : "Diodes are",
+    "ans" : "b",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "0.2V",
+    "b" : "1.41V",
+    "c" : "1V",
+    "d" : "refer",
+    "e" : "Silicon diodes require around 0.7V,so a is the closest",
+    "ques" : "To function, i.e.conduct, a junction diode made of silicon requires a forward bias of at least",
+    "ans" : "c",
+    "topic" : "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "a" : "an N type material",
+    "b" : "either an N type or a P type depending on what type of semiconductor material is used",
+    "c" : "a P type material",
+    "d" : "refer",
+    "e" : "Pentavalent materials make an N type material due to its extra electron. Aircraft Electricity and Electronics 5th Edition Eismin Page110",
+    "ques" : "A semiconductor doped with an element having a valency of 5 will produce",
+    "ans" : "a",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "Rectification",
+    "b" : "Stabilization",
+    "c" : "Very high frequency applications",
+    "d" : "refer",
+    "e" : "A schottky diode has very little junction capacitance and can be used for very high frequency switching applications",
+    "ques" : "What is a schottky diode used for?",
+    "ans" : "c",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "becomes a minority carrier in then-region",
+    "b" : "lowers the potential barrier",
+    "c" : "raises the potential barrier",
+    "d" : "refer",
+    "e" : "This is descriptive of holes crossing the PN junction to form the depletion layer.Aircraft Electricity and Electronics 5th EditionEismin Page 111",
+    "ques" : "When a hole diffuses from a p-region to the n-region it",
+    "ans" : "c",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "reverse bias exceeds a certain value",
+    "b" : "forward bias exceeds a certain value",
+    "c" : "forward current becomes excessive",
+    "d" : "refer",
+    "e" : "Reverse biasing a diode will cause avalanche breakdown at a certain value. AircraftElectricity and Electronics 5th Edition Eismin Page120",
+    "ques" : "Avalanche break down occurs when",
+    "ans" : "a",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "when the flow of minority carriersis sufficient to cause an avalanche breakdown",
+    "b" : "when the depletion layer becomes larger than the space charge area",
+    "c" : "only after the forward bias exceeds the potential barrier",
+    "d" : "refer",
+    "e" : "A forward biased PN junction will conduct only when the forward bias voltage exceeds the junction barrier - i.e Si = 0.6V, Ge =0.2V",
+    "ques" : "If forward bias is increased from zero on a p-n junction, a rapid increase in current flow for a relatively small increase in voltage occurs",
+    "ans" : "c",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "below the frequency required only",
+    "b" : "above and below the frequency required",
+    "c" : "above the frequency required only",
+    "d" : "refer",
+    "e" : "A band-pass filter excludes frequencies above and below a particular frequency. Aircraft Electricity and Electronics 5thEdition Eismin Page 288.",
+    "ques" : "A band pass filter excludes frequencies",
+    "ans" : "b",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "Gunn diode",
+    "b" : "Schottky diode",
+    "c" : "Two directional zener diode",
+    "d" : "refer",
+    "e" : "A two directional zener diode(actually 2 zener diodes back-to-back) is used to stop power spikes",
+    "ques" : "What diode is used to stop power spikes in a coil?",
+    "ans" : "c",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "LED",
+    "b" : "Photo diode",
+    "c" : "Gunn",
+    "d" : "refer",
+    "e" : "The word 'photons' implies light emission - i.e. a light emitting diode (LED)",
+    "ques" : "What type of diode when forward biased holes and electrons recombine producing photons?",
+    "ans" : "a",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "below its breakdown voltage",
+    "b" : "either above or below its breakdown voltage",
+    "c" : "above its breakdown voltage",
+    "d" : "refer",
+    "e" : "A zener diode is designed to operate above its breakdown voltage continuously.Aircraft Electricity and Electronics 5th EditionEismin Page 120",
+    "ques" : "A zener diode is designed to operate",
+    "ans" : "c",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "thermistor",
+    "b" : "transistor",
+    "c" : "thyristor",
+    "d" : "refer",
+    "e" : "Thyristors include, SCRs, Triacs and diacs. Aircraft Electricity and Electronics 5thEdition Eismin Page 120",
+    "ques" : "A triac is a type of",
+    "ans" : "c",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "reverse direction",
+    "b" : "cease to flow",
+    "c" : "increase",
+    "d" : "refer",
+    "e" : "If a junction diode is reverse biased too far, it will 'breakdown' and a high current will flow",
+    "ques" : "If a junction diode is reverse biased too far, the output current would",
+    "ans" : "c",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "intrinsic carrier",
+    "b" : "majority carrier",
+    "c" : "minority carrier",
+    "d" : "refer",
+    "e" : "Forward biased - majority carriers",
+    "ques" : "When a PN junction is forward biased, it conducts via",
+    "ans" : "b",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "load current reduces to zero",
+    "b" : "load current increases rapidly",
+    "c" : "load current reverses",
+    "d" : "refer",
+    "e" : "If the reverse bias voltage is too high, the diode will break down and pass current",
+    "ques" : "If the reverse bias voltage across a diode is too high",
+    "ans" : "b",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "positive or negative pulse",
+    "b" : "negative pulse",
+    "c" : "positive pulse",
+    "d" : "refer",
+    "e" : "Positive pulse only",
+    "ques" : "A thyristor can beforward biased by a",
+    "ans" : "c",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "acceptors",
+    "b" : "acceptors and donors",
+    "c" : "donors",
+    "d" : "refer",
+    "e" : "N' type materials have excess electrons, therefore the impurity element is a donor of electrons. Aircraft Electricity andElectronics 5th Edition Eismin Page 110",
+    "ques" : "N' type materials are doped with",
+    "ans" : "c",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "give a full wave rectification",
+    "b" : "prevent thermal runway",
+    "c" : "provide a steady DC voltage output without falling",
+    "d" : "refer",
+    "e" : "A Zener diode is the main component in a voltage regulator",
+    "ques" : "A Zener diode is used across the output for a power supply circuit to",
+    "ans" : "c",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "the same as the input frequency",
+    "b" : "twice the input frequency",
+    "c" : "half the input frequency",
+    "d" : "refer",
+    "e" : "A fully serviceable bridge rectifier produces an output ripple twice the input frequency. If one diode goes open circuit, one ofthe output 'humps' drops to zero",
+    "ques" : "If a diode has gone open circuit in a full wave bridge rectifier, the output frequency ripple is",
+    "ans" : "a",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "the output is pure DC. Frequency is 0 Hz",
+    "b" : "the output frequency is twice the input frequency",
+    "c" : "the output voltage is twice the input voltage",
+    "d" : "refer",
+    "e" : "The output is un-smoothed DC of 2x input frequency",
+    "ques" : "In a full wavebridge rectifier",
+    "ans" : "a",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "smooth direct current",
+    "b" : "pulsating direct current",
+    "c" : "square wave form current",
+    "d" : "refer",
+    "e" : "Assuming the rectifier does notcontain any smoothing circuitry",
+    "ques" : "After passing through a rectifier, alternating current becomes",
+    "ans" : "b",
+    "topic" : "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "a" : "collector",
+    "b" : "emitter",
+    "c" : "base",
+    "d" : "refer",
+    "e" : "NPN or PNP, the middle one is always the Base. Aircraft Electricity and Electronics5th Edition Eismin Page 116",
+    "ques" : "In an NPN transistor the P is the",
+    "ans" : "c",
+    "topic" : "1.2a. Semiconductors - Transistors"
+  },
+  {
+    "a" : "The base-emitter junction must be forward biased and the base-collector junction must be greater than 0.7 volts",
+    "b" : "For an NPN transistor the base-emitter junction must be forward biased and for a PNP transistor the base emitter junction must bereverse biased",
+    "c" : "The base-collector junction mustbe reverse biased and the base-emitter junction must be forward biased",
+    "d" : "refer",
+    "e" : "Eismin Aircraft Electricity andElectronics 5th Edition page 116",
+    "ques" : "For correct operation of a transistor, the following conditions must apply",
+    "ans" : "c",
+    "topic" : "1.2a. Semiconductors - Transistors"
+  },
+  {
+    "a" : "the collector voltage goes less positive",
+    "b" : "the emitter current decreases",
+    "c" : "the base current decreases",
+    "d" : "refer",
+    "e" : "Sketch the circuit and work it out",
+    "ques" : "When a positive voltage is applied to the base of a normally biased n-p-n common emitter amplifier",
+    "ans" : "a",
+    "topic" : "1.2a. Semiconductors - Transistors"
+  },
+  {
+    "a" : "Emitter to base",
+    "b" : "Collector to base",
+    "c" : "Collector to emitter",
+    "d" : "refer",
+    "e" : "Conventional current in a PNP transistor flows from EMITTER to BASE. Note: In an NPN transistor it would be collector to emitter",
+    "ques" : "Which way does conventional current flow in a PNP junction?",
+    "ans" : "a",
+    "topic" : "1.2a. Semiconductors - Transistors"
+  },
+  {
+    "a" : "forward or reverse as appropriate to the input signal",
+    "b" : "reverse biased",
+    "c" : "forward biased",
+    "d" : "refer",
+    "e" : "For a transistor to switch on, the base-emitter (or just emitter) junction must beforward biased. Aircraft Electricity and Electronics5th Edition Eismin Page 116",
+    "ques" : "For conduction of a transistor, the emitter junction is",
+    "ans" : "c",
+    "topic" : "1.2a. Semiconductors - Transistors"
+  },
+  {
+    "a" : "Base to emitter",
+    "b" : "Collector to emitter",
+    "c" : "Emitter to collector",
+    "d" : "refer",
+    "e" : "In a PNP transistor, the main current flow is Emitter to Collector (reverse of what it is with an NPN transistor)",
+    "ques" : "In a PNP transistor, which way does conventional current flow?",
+    "ans" : "c",
+    "topic" : "1.2a. Semiconductors - Transistors"
+  },
+  {
+    "a" : "the emitter is more positive than the base",
+    "b" : "the base is more positive than the emitter",
+    "c" : "the collector is more positive than the emitter",
+    "d" : "refer",
+    "e" : "To switch a PNP on, the emitter must be positive compared to the base (opposite to an NPN)",
+    "ques" : "In a PNP transistor, conventional current will flow when",
+    "ans" : "a",
+    "topic" : "1.2a. Semiconductors - Transistors"
+  },
+  {
+    "a" : "in phase",
+    "b" : "out of phase by 60°",
+    "c" : "out of phase by 90°",
+    "d" : "refer",
+    "e" : "Common collector - output is in-phase with the input",
+    "ques" : "In a common collector circuit the output and input are",
+    "ans" : "a",
+    "topic" : "1.2a. Semiconductors - Transistors"
+  },
+  {
+    "a" : "more positive than the base",
+    "b" : "less positive than the emitter",
+    "c" : "more positive than the emitter",
+    "d" : "refer",
+    "e" : "Sketch an NPN circuit and mark the two current flows. Aircraft Electricity and Electronics 5th Edition Eismin Page 116",
+    "ques" : "For an NPN transistor to conduct the collector circuit has to be",
+    "ans" : "a",
+    "topic" : "1.2a. Semiconductors - Transistors"
+  },
+  {
+    "a" : "smaller Collector to Emitter",
+    "b" : "same both ways",
+    "c" : "higher Collector to Emitter",
+    "d" : "refer",
+    "e" : "Without looking too deeply into it,a transistor is two diodes back-to-back, so have high resistance both ways. Aircraft Electricity and Electronics 5th Edition Eismin Page 119",
+    "ques" : "The resistance measured using an AVO between the Collector and Emitter of a transistor is",
+    "ans" : "b",
+    "topic" : "1.2a. Semiconductors - Transistors"
+  },
+  {
+    "a" : "current amplifiers",
+    "b" : "both current amplifiers and voltage amplifiers",
+    "c" : "voltage amplifiers",
+    "d" : "refer",
+    "e" : "A transistor can amplify either current or voltage or both, depending on the configuration (CE, CB, CC)",
+    "ques" : "A transistor is used in",
+    "ans" : "b",
+    "topic" : "1.2a. Semiconductors - Transistors"
+  },
+  {
+    "a" : "Emitter to base",
+    "b" : "Emitter to collector",
+    "c" : "Collector to emitter",
+    "d" : "refer",
+    "e" : "PNP, current (conventional) flows emitter to collector",
+    "ques" : "In which direction does the current flow on a PNP transistor when forward biased?",
+    "ans" : "b",
+    "topic" : "1.2a. Semiconductors - Transistors"
+  },
+  {
+    "a" : "Base",
+    "b" : "Collector",
+    "c" : "Emitter",
+    "d" : "refer",
+    "e" : "In a NPN electrons (NOT conventional current) leave at the Emitter",
+    "ques" : "With an NPN transistor electrons leave the",
+    "ans" : "c",
+    "topic" : "1.2a. Semiconductors - Transistors"
+  },
+  {
+    "a" : "base circuit",
+    "b" : "emitter circuit",
+    "c" : "collector circuit",
+    "d" : "refer",
+    "e" : "Decreasing the collector resistance(RL) increases the output voltage of the transistor",
+    "ques" : "To decrease the voltage gain of a common emitter amplifier you would increase the resistance in the",
+    "ans" : "c",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "low impedance",
+    "b" : "current operated",
+    "c" : "high impedance",
+    "d" : "refer",
+    "e" : "The biggest advantage of a FET is its high input impedance",
+    "ques" : "A FET when compared to a junction transistor is",
+    "ans" : "c",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "low resistance output",
+    "b" : "low current amplification",
+    "c" : "high voltage amplification",
+    "d" : "refer",
+    "e" : "The emitter follower (common collector) has the lowest output resistance of all three configurations",
+    "ques" : "One characteristic of the emitter follower is",
+    "ans" : "a",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "common base configuration",
+    "b" : "common emitter configuration",
+    "c" : "common collector configuration",
+    "d" : "refer",
+    "e" : "Only the common base configuration provides a current gain of less than1",
+    "ques" : "An amplifier current gain will be slightly less than 1, but its voltage gain will be high, if it is connected in the",
+    "ans" : "a",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "voltage amplifiers or power amplifiers",
+    "b" : "voltage amplifiers or impedance amplifiers",
+    "c" : "common emitter or common collector amplifiers",
+    "d" : "refer",
+    "e" : "Amplifiers are classified as either voltage or power amplifiers",
+    "ques" : "Amplifiers may be classified as",
+    "ans" : "a",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "common collector configuration",
+    "b" : "common emitter configuration",
+    "c" : "common base configuration",
+    "d" : "refer",
+    "e" : "Only the common emitter configuration provides both current and voltage gain greater than 1",
+    "ques" : "An amplifier can provide both voltage gain and current gain when it is connected in the",
+    "ans" : "b",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "decrease base circuit bias",
+    "b" : "decrease input resistance",
+    "c" : "decrease output resistance",
+    "d" : "refer",
+    "e" : "Amplifier gain = feedback resistance / input resistance",
+    "ques" : "How do you increase voltage gain of an amplifier?",
+    "ans" : "b",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "in phase",
+    "b" : "equal",
+    "c" : "out of phase",
+    "d" : "refer",
+    "e" : "The common emitter amplifier is the only configuration which provides an output which is anti-phase with the input",
+    "ques" : "The input and output signals of a common emitter amplifier are",
+    "ans" : "c",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "no currents are flowing",
+    "b" : "it is unbiased",
+    "c" : "no signal is applied to the input",
+    "d" : "refer",
+    "e" : "The quiescent state of a transistor is when DC is supplied to the base to bias the transistor. No signal is applied",
+    "ques" : "A transistor is said to be in the quiescent state when",
+    "ans" : "c",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "drain, source and gate",
+    "b" : "drain, collector and junctions",
+    "c" : "base, collector and emitter",
+    "d" : "refer",
+    "e" : "The leads of a FET are called drain,source and gate. Aircraft Electricity and Electronics5th Edition Eismin Page 120",
+    "ques" : "In a FET, the junction connections are called",
+    "ans" : "a",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "Collector to collector",
+    "b" : "Emitter to emitter",
+    "c" : "Base to base",
+    "d" : "refer",
+    "e" : "A push pull amplifier is wired emitter to emitter",
+    "ques" : "How is a push-pull transistor arrangement connected?",
+    "ans" : "b",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "excessive heat causing maximum current flow",
+    "b" : "excessive heat causing minimum current flow",
+    "c" : "low heat causing minimum current flow",
+    "d" : "refer",
+    "e" : "Thermal runaway is caused by excessive temperature creating an increase incurrent flow and hence an increase in temperature etc.",
+    "ques" : "Thermal runaway in a transistor is caused by",
+    "ans" : "a",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "it has high power gain",
+    "b" : "it is a voltage follower",
+    "c" : "it has high voltage gain",
+    "d" : "refer",
+    "e" : "Common emitter configuration has a high power gain",
+    "ques" : "An advantage of a common emitter is",
+    "ans" : "a",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "Low resistance both ways",
+    "b" : "High resistance one way",
+    "c" : "High resistance both ways",
+    "d" : "refer",
+    "e" : "Draw a transistor as 2 back to back diodes and work it out from there (same for PNP as NPN). Aircraft Electricity and Electronics 5thEdition Eismin Page 119",
+    "ques" : "When testing a transistor with an ohmmeter, what is the resistance of the emitter/collector?",
+    "ans" : "c",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "low resistance",
+    "b" : "zero resistance",
+    "c" : "high resistance",
+    "d" : "refer",
+    "e" : "A transistor at saturation is switched on - therefore has low resistance",
+    "ques" : "A transistor at saturation has",
+    "ans" : "a",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "DC pass only",
+    "b" : "AC and DC pass to the next stage",
+    "c" : "AC pass only",
+    "d" : "refer",
+    "e" : "A capacitor lets AC pass only",
+    "ques" : "A capacitor-resistor coupled multistage amplifier lets",
+    "ans" : "c",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "90 degrees out of phase",
+    "b" : "180 degrees out of phase",
+    "c" : "in-phase",
+    "d" : "refer",
+    "e" : "An oscillator provides positive in-phase feedback to switch itself over",
+    "ques" : "An oscillator operating at its natural frequency has feedback which is",
+    "ans" : "c",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "Addition",
+    "b" : "Subtraction",
+    "c" : "Multiplication",
+    "d" : "refer",
+    "e" : "A modulator amplifier is a basic input/output amplifier used for amplifying a signal.It 'multiplies' the input signal by the value of the gain",
+    "ques" : "Which mathematical operation is performed by a modulator amplifier?",
+    "ans" : "c",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "either of the above depending on resistance in the circuit",
+    "b" : "current sensitive",
+    "c" : "voltage sensitive",
+    "d" : "refer",
+    "e" : "A JFET is voltage sensitive,where as a normal transistor is current sensitive.Aircraft Electricity and Electronics 5th EditionEismin Page 119",
+    "ques" : "A JFET is",
+    "ans" : "c",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "high current flow when temperature decreases",
+    "b" : "low current flow when temperature increases",
+    "c" : "high current flow when temperature increases",
+    "d" : "refer",
+    "e" : "Thermal runaway is caused by the'negative temperature coefficient' of semiconductors. More heat, less resistant, hence more current. More current, more heat etc.",
+    "ques" : "Thermal runaway in a transistor refers to",
+    "ans" : "c",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "the switching time is quicker",
+    "b" : "the input resistance is higher",
+    "c" : "the input resistance is lower",
+    "d" : "refer",
+    "e" : "A FET has a high input resistance and a low output resistance",
+    "ques" : "An advantage of a FET when compared to a bi-polar transistor is",
+    "ans" : "b",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "Between pins 1 & 8",
+    "b" : "Close to the positive pin",
+    "c" : "Close to the negative pin",
+    "d" : "refer",
+    "e" : "Close' is an important requirement. The capacitor has to be as close aspossible to the +ve power supply pin. Answer a)could also be true assuming pin 8 to be ground,but in the real world not all pin 8s are negative,especially in DIL packages with more than 8 pins",
+    "ques" : "Where are decoupling capacitors used in digital circuits?",
+    "ans" : "b",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "Medium Voltage Gain, High Current Gain, Non-Inverted Output",
+    "b" : "Low Voltage Gain, High Current Gain, Inverted Output",
+    "c" : "Medium Voltage Gain, Low Current Gain, Inverted Output",
+    "d" : "refer",
+    "e" : "Common collector is a voltage follower, with high current gain",
+    "ques" : "A Common Collector circuit has the following characteristics",
+    "ans" : "a",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "load control",
+    "b" : "biasing",
+    "c" : "stabilisation",
+    "d" : "refer",
+    "e" : "The emitter resistor is a stabilizing resistor",
+    "ques" : "In a Common Emitter Amplifier RE is used for",
+    "ans" : "c",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "B",
+    "b" : "C",
+    "c" : "A",
+    "d" : "refer",
+    "e" : "Best amplifier is a Class A",
+    "ques" : "The most suitable class of amplifier for a high fidelity radio transmitter is",
+    "ans" : "c",
+    "topic" : "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "a" : "by metal screws",
+    "b" : "by metal oxide film",
+    "c" : "by means of wires connecting them",
+    "d" : "refer",
+    "e" : "A thin film of aluminium is coated over the oxide film onto the surface of the IC to make the conductors",
+    "ques" : "In an integrated circuit, the components are mounted",
+    "ans" : "c",
+    "topic" : "1.3a. Integrated Circuits"
+  },
+  {
+    "a" : "Double",
+    "b" : "Zero",
+    "c" : "Half",
+    "d" : "refer",
+    "e" : "Although the input waves are anti-phase, the inverter input of the op amp inverts oneof the inputs, so the two waves actually add to each other",
+    "ques" : "In an operational amplifier, the two input waves are the same amplitude, same frequency, but exactly anti-phase.What would the output be?",
+    "ans" : "a",
+    "topic" : "1.3a. Integrated Circuits"
+  },
+  {
+    "a" : "And",
+    "b" : "Or",
+    "c" : "Not",
+    "d" : "refer",
+    "e" : "A+B+C represents an OR gate",
+    "ques" : "In the following Boolean algebra statement, which gate is described?. F = A + B + C",
+    "ans" : "b",
+    "topic" : "1.3a. Integrated Circuits"
+  },
+  {
+    "a" : "Nand",
+    "b" : "And",
+    "c" : "Nor",
+    "d" : "refer",
+    "e" : "A.B.C represents an AND gate",
+    "ques" : "In the Boolean algebra statement below, the gate described is F = A.B.C",
+    "ans" : "b",
+    "topic" : "1.3a. Integrated Circuits"
+  },
+  {
+    "a" : "Class B amp.",
+    "b" : "Class A amp.",
+    "c" : "Op amp.",
+    "d" : "refer",
+    "e" : "impedance and zero output impedance are characteristics of the ideal op amp",
+    "ques" : "Infinite gain,infinite input impedance and zero output impedance is characteristic of a",
+    "ans" : "c",
+    "topic" : "1.3a. Integrated Circuits"
+  },
+  {
+    "a" : "The circuit has 2 stable states and will stay in which one it is put",
+    "b" : "The circuit has 1 stable state and it can be negative or positive",
+    "c" : "The circuit has 2 stable states and will stay in both at the same time",
+    "d" : "refer",
+    "e" : "A bistable circuit has 2 stable states and it will be in only one at a time.",
+    "ques" : "What is meant bya bistable circuit?",
+    "ans" : "a",
+    "topic" : "1.3a. Integrated Circuits"
+  },
+  {
+    "a" : "The op amp bandwidth",
+    "b" : "The gain of the op-amp",
+    "c" : "The resistors in the circuit",
+    "d" : "refer",
+    "e" : "The output of an op-amp is controlled by the external resistor circuit",
+    "ques" : "What does the output voltage of an op-amp depend upon?",
+    "ans" : "c",
+    "topic" : "1.3a. Integrated Circuits"
+  },
+  {
+    "a" : "NAND gate",
+    "b" : "NOR gate",
+    "c" : "AND gate",
+    "d" : "refer",
+    "e" : "An AND gate can be made by inverting both the inputs and the output of an OR gate",
+    "ques" : "What type of gate is an OR gate with both inverted inputs and inverted outputs?",
+    "ans" : "c",
+    "topic" : "1.3a. Integrated Circuits"
+  },
+  {
+    "a" : "from left to right from the dot",
+    "b" : "counter clockwise from the dot",
+    "c" : "clockwise from the dot",
+    "d" : "refer",
+    "e" : "Pins on an IC are always numbered counter-clockwise from the dot. Aircraft Electricityand Electronics 5th Edition Eismin Page 140",
+    "ques" : "How are the pins numbered on an op-amp IC?",
+    "ans" : "b",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "clockwise",
+    "b" : "from left to right",
+    "c" : "anti clockwise",
+    "d" : "refer",
+    "e" : "On an IC the pins are counted anti-clockwise. Aircraft Electricity and Electronics 5thEdition Eismin Page 140",
+    "ques" : "On an integrated circuit the hole in the top left corner is pin 1. The pins are counted",
+    "ans" : "c",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "7",
+    "b" : "8",
+    "c" : "4",
+    "d" : "refer",
+    "e" : "Inverting and non-inverting input,output, positive and negative supply, two offset null connections (for a potentiometer) plus one legnot used = 8. Aircraft Electricity and Electronics 5thEdition Eismin Page 140",
+    "ques" : "A single integrated circuit Op Amp has how many pins?",
+    "ans" : "b",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "2 or more outputs",
+    "b" : "one of 2 states of logic output",
+    "c" : "an analogue output",
+    "d" : "refer",
+    "e" : "Logic circuit outputs are either 0 or 1, regardless of the number of gates in the circuit",
+    "ques" : "A logic circuit with more than one gate will have",
+    "ans" : "b",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "on the surface",
+    "b" : "in the solid",
+    "c" : "don't need them",
+    "d" : "refer",
+    "e" : "Components on an integrated circuit are on the surface of the substrate",
+    "ques" : "Components on an integrated circuit are",
+    "ans" : "a",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "reset the true output to 0",
+    "b" : "clock in new data from the data inputs",
+    "c" : "reset the true output to 1",
+    "d" : "refer",
+    "e" : "When the value on reset (R) is 1,the value of Q is set to 0 and vice versa",
+    "ques" : "A momentary input at the reset input of a flip flop will",
+    "ans" : "a",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "JK",
+    "b" : "D",
+    "c" : "RS",
+    "d" : "refer",
+    "e" : "The D type Flip Flop has only 1input (besides the clock input)",
+    "ques" : "Which type of flip flop has only 1 data input?",
+    "ans" : "b",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "low input impedance and high output impedance",
+    "b" : "high input impedance and low output impedance",
+    "c" : "the same input an output impedance",
+    "d" : "refer",
+    "e" : "An op amp is characterised by its high input impedance and low output impedance.Aircraft Electricity and Electronics 5th EditionEismin Page 288",
+    "ques" : "When you use an op amp as a buffer it has",
+    "ans" : "b",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "One trigger pulse to both switch on and off",
+    "b" : "One trigger pulse to switch on and two trigger pulses to switch off",
+    "c" : "One trigger pulse to switch on and another to switch off",
+    "d" : "refer",
+    "e" : "Monostable multivibrators can remain only in one state permanently. When an external trigger pulse is applied, the circuit moves from its permanent stable state then drops back after a short while",
+    "ques" : "What is required for the switching of a monostable multivibrator?",
+    "ans" : "a",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "one which requires no input whatsoever",
+    "b" : "one which requires an input to switch on and off",
+    "c" : "free running vibrator",
+    "d" : "refer",
+    "e" : "An a stable multivibrator flipson/off continuously providing it has a power supply",
+    "ques" : "An a stable multivibrator is a",
+    "ans" : "c",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "26 VAC",
+    "b" : "5-15 VDC",
+    "c" : "26 VDC",
+    "d" : "refer",
+    "e" : "Power supplies vary from op-amp to op-amp (manufacturer to manufacturer) but most are +/- 5v to +/- 15v",
+    "ques" : "Op amps use what power supply?",
+    "ans" : "b",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "Op-Amp",
+    "b" : "Class A amp",
+    "c" : "Class B amp",
+    "d" : "refer",
+    "e" : "This is the definition of an Op-Amp",
+    "ques" : "A device which has a high input impedance, low output impedance and high voltage gain is a",
+    "ans" : "a",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "a three dimensional process with no connections between them required",
+    "b" : "wires connecting them using conformal coating",
+    "c" : "metal oxide film etched onto the surface",
+    "d" : "refer",
+    "e" : "All three answers are close to the truth. c) is probably the closest. Aircraft Electricityand Electronics 5th Edition Eismin Page 138",
+    "ques" : "In an integrated circuit, the components are mounted by",
+    "ans" : "c",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "automatically",
+    "b" : "by doping in successive layers",
+    "c" : "manually",
+    "d" : "refer",
+    "e" : "An integrated circuit is produced by masking and doping each P and N component successively. Aircraft Electricity and Electronics 5thEdition Eismin Page 121",
+    "ques" : "In an integrated circuit, the components are inserted",
+    "ans" : "b",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "utilizes both sides of the input signal",
+    "b" : "decreases impedance",
+    "c" : "blocks half of the input signal",
+    "d" : "refer",
+    "e" : "During the positive portion of the AC input signal, the NPN follower drives the output, and during the negative half, the PNPdrives the output",
+    "ques" : "In an electronic circuit with an operational amplifier connected inthe push-pull configuration, the circuit",
+    "ans" : "a",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "positive input DC pin",
+    "b" : "non-inverting input",
+    "c" : "positive offset null",
+    "d" : "refer",
+    "e" : "741 Op-Amp (for example) is the non-inverting input",
+    "ques" : "Pin 3 on an op-amp has a + symbol. This designates",
+    "ans" : "b",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "silicon",
+    "b" : "phiidide",
+    "c" : "germanium",
+    "d" : "refer",
+    "e" : "Silicon is most commonly used",
+    "ques" : "The semiconductor substrate used in 'chips' is most commonly",
+    "ans" : "a",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "doping impurities into layers of intrinsic material",
+    "b" : "etching copper tracks onto an insulating board",
+    "c" : "computer hardware, which use individual circuits on ribbon",
+    "d" : "refer",
+    "e" : "Aircraft Instruments and Integrated Systems Pallett Page 149/150",
+    "ques" : "An integrated circuit is manufactured by",
+    "ans" : "a",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "is switched on by a trigger pulse then within a pre-set time will eventually return to its original state",
+    "b" : "uses a trigger pulse to turn on and the same pulse to turn off",
+    "c" : "uses one pulse to turn on and another to turn off",
+    "d" : "refer",
+    "e" : "A monostable vibrator is switched on by a trigger pulse then within a pre-set time will eventually return to its original state",
+    "ques" : "A monostable vibrator",
+    "ans" : "a",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "1000",
+    "b" : "1/1000",
+    "c" : "-1000",
+    "d" : "refer",
+    "e" : "Gain = Feedback/input resistance =100,000/100 = 1000 (minus because it is inverting)",
+    "ques" : "The input resistance to an inverting op-amp is 100 Ohms.The feedback resistance is 100 kilohms. What is the amplifier gain?",
+    "ans" : "c",
+    "topic" : "1.3b. Integrated Circuits"
+  },
+  {
+    "a" : "connected by fine gold wires",
+    "b" : "mounted on the outside of the solid block",
+    "c" : "embedded within the solid block",
+    "d" : "refer",
+    "e" : "Hence the term 'integrated circuit'",
+    "ques" : "In an integrated circuit, active, passive and connecting components are",
+    "ans" : "c",
+    "topic" : "1.3b. Integrated Circuits"
+  }
+]

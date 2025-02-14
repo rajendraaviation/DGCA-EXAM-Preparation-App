@@ -1,9 +1,9 @@
 [
     {
-      "question": ".In a parallel circuit general formula for calculating current is ….",
-      "options": ["IT=I1+I2+I3……In", "IT=0", "IT=VT", "None of the above"],
+      "question": "What gives the colour of an LED?",
+      "options": ["The active elemen", "The plastic it is encased in", "The type of gas used inside it", "None of the above"],
       "answer": 0,
-      "reference": "Ref(9A pag.no-10-41)"
+      "reference": "The active element is the element used in the doping of the semiconductor material. Aircraft Electricity and Electronics 5th Edition Eismin Page 121"
     },
     {
       "question": ".If voltage applied to circuit is 12V and total resistance is 40Ω then calculate total current flowing through circuit………",
