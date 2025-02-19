@@ -1,0 +1,362 @@
+[
+    {
+        "option1": "LED",
+        "option2": "Photo diode",
+        "option3": "Gunn",
+        "reference": "The word 'photons' implies light emission - i.e. a light emitting diode (LED)",
+        "question": "What type of diode when forward biased holes and electrons recombine producing photons?",
+        "answer": "1",
+        "topic": "1.1b. Semiconductors - Diodes"
+      },
+      {
+        "option1": "below its breakdown voltage",
+        "option2": "either above or below its breakdown voltage",
+        "option3": "above its breakdown voltage",
+        "reference": "A zener diode is designed to operate above its breakdown voltage continuously.Aircraft Electricity and Electronics 5th EditionEismin Page 120",
+        "question": "A zener diode is designed to operate",
+        "answer": "3",
+        "topic": "1.1b. Semiconductors - Diodes"
+      },
+      {
+        "option1": "thermistor",
+        "option2": "transistor",
+        "option3": "thyristor",
+        "reference": "Thyristors include, SCRs, Triacs and diacs. Aircraft Electricity and Electronics 5thEdition Eismin Page 120",
+        "question": "A triac is a type of",
+        "answer": "3",
+        "topic": "1.1b. Semiconductors - Diodes"
+      },
+      {
+        "option1": "reverse direction",
+        "option2": "cease to flow",
+        "option3": "increase",
+        "reference": "If a junction diode is reverse biased too far, it will 'breakdown' and a high current will flow",
+        "question": "If a junction diode is reverse biased too far, the output current would",
+        "answer": "3",
+        "topic": "1.1b. Semiconductors - Diodes"
+      },
+      {
+        "option1": "intrinsic carrier",
+        "option2": "majority carrier",
+        "option3": "minority carrier",
+        "reference": "Forward biased - majority carriers",
+        "question": "When a PN junction is forward biased, it conducts via",
+        "answer": "2",
+        "topic": "1.1b. Semiconductors - Diodes"
+      },
+      {
+        "option1": "load current reduces to zero",
+        "option2": "load current increases rapidly",
+        "option3": "load current reverses",
+        "reference": "If the reverse bias voltage is too high, the diode will break down and pass current",
+        "question": "If the reverse bias voltage across a diode is too high",
+        "answer": "2",
+        "topic": "1.1b. Semiconductors - Diodes"
+      },
+      {
+        "option1": "positive or negative pulse",
+        "option2": "negative pulse",
+        "option3": "positive pulse",
+        "reference": "Positive pulse only",
+        "question": "A thyristor can beforward biased by a",
+        "answer": "3",
+        "topic": "1.1b. Semiconductors - Diodes"
+      },
+      {
+        "option1": "acceptors",
+        "option2": "acceptors and donors",
+        "option3": "donors",
+        "reference": "N' type materials have excess electrons, therefore the impurity element is a donor of electrons. Aircraft Electricity andElectronics 5th Edition Eismin Page 110",
+        "question": "N' type materials are doped with",
+        "answer": "3",
+        "topic": "1.1b. Semiconductors - Diodes"
+      },
+      {
+        "option1": "give a full wave rectification",
+        "option2": "prevent thermal runway",
+        "option3": "provide a steady DC voltage output without falling",
+        "reference": "A Zener diode is the main component in a voltage regulator",
+        "question": "A Zener diode is used across the output for a power supply circuit to",
+        "answer": "3",
+        "topic": "1.1b. Semiconductors - Diodes"
+      },
+      {
+        "option1": "the same as the input frequency",
+        "option2": "twice the input frequency",
+        "option3": "half the input frequency",
+        "reference": "A fully serviceable bridge rectifier produces an output ripple twice the input frequency. If one diode goes open circuit, one ofthe output 'humps' drops to zero",
+        "question": "If a diode has gone open circuit in a full wave bridge rectifier, the output frequency ripple is",
+        "answer": "1",
+        "topic": "1.1b. Semiconductors - Diodes"
+      },
+      {
+        "option1": "the output is pure DC. Frequency is 0 Hz",
+        "option2": "the output frequency is twice the input frequency",
+        "option3": "the output voltage is twice the input voltage",
+        "reference": "The output is un-smoothed DC of 2x input frequency",
+        "question": "In a full wavebridge rectifier",
+        "answer": "1",
+        "topic": "1.1b. Semiconductors - Diodes"
+      },
+      {
+        "option1": "smooth direct current",
+        "option2": "pulsating direct current",
+        "option3": "square wave form current",
+        "reference": "Assuming the rectifier does notcontain any smoothing circuitry",
+        "question": "After passing through a rectifier, alternating current becomes",
+        "answer": "2",
+        "topic": "1.1b. Semiconductors - Diodes"
+      },
+      {
+        "option1": "collector",
+        "option2": "emitter",
+        "option3": "base",
+        "reference": "NPN or PNP, the middle one is always the Base. Aircraft Electricity and Electronics5th Edition Eismin Page 116",
+        "question": "In an NPN transistor the P is the",
+        "answer": "3",
+        "topic": "1.2a. Semiconductors - Transistors"
+      },
+      {
+        "option1": "The base-emitter junction must be forward biased and the base-collector junction must be greater than 0.7 volts",
+        "option2": "For an NPN transistor the base-emitter junction must be forward biased and for a PNP transistor the base emitter junction must bereverse biased",
+        "option3": "The base-collector junction mustbe reverse biased and the base-emitter junction must be forward biased",
+        "reference": "Eismin Aircraft Electricity andElectronics 5th Edition page 116",
+        "question": "For correct operation of a transistor, the following conditions must apply",
+        "answer": "3",
+        "topic": "1.2a. Semiconductors - Transistors"
+      },
+      {
+        "option1": "the collector voltage goes less positive",
+        "option2": "the emitter current decreases",
+        "option3": "the base current decreases",
+        "reference": "Sketch the circuit and work it out",
+        "question": "When a positive voltage is applied to the base of a normally biased n-p-n common emitter amplifier",
+        "answer": "1",
+        "topic": "1.2a. Semiconductors - Transistors"
+      },
+      {
+        "option1": "Emitter to base",
+        "option2": "Collector to base",
+        "option3": "Collector to emitter",
+        "reference": "Conventional current in a PNP transistor flows from EMITTER to BASE. Note: In an NPN transistor it would be collector to emitter",
+        "question": "Which way does conventional current flow in a PNP junction?",
+        "answer": "1",
+        "topic": "1.2a. Semiconductors - Transistors"
+      },
+      {
+        "option1": "forward or reverse as appropriate to the input signal",
+        "option2": "reverse biased",
+        "option3": "forward biased",
+        "reference": "For a transistor to switch on, the base-emitter (or just emitter) junction must beforward biased. Aircraft Electricity and Electronics5th Edition Eismin Page 116",
+        "question": "For conduction of a transistor, the emitter junction is",
+        "answer": "3",
+        "topic": "1.2a. Semiconductors - Transistors"
+      },
+      {
+        "option1": "Base to emitter",
+        "option2": "Collector to emitter",
+        "option3": "Emitter to collector",
+        "reference": "In a PNP transistor, the main current flow is Emitter to Collector (reverse of what it is with an NPN transistor)",
+        "question": "In a PNP transistor, which way does conventional current flow?",
+        "answer": "3",
+        "topic": "1.2a. Semiconductors - Transistors"
+      },
+      {
+        "option1": "the emitter is more positive than the base",
+        "option2": "the base is more positive than the emitter",
+        "option3": "the collector is more positive than the emitter",
+        "reference": "To switch a PNP on, the emitter must be positive compared to the base (opposite to an NPN)",
+        "question": "In a PNP transistor, conventional current will flow when",
+        "answer": "1",
+        "topic": "1.2a. Semiconductors - Transistors"
+      },
+      {
+        "option1": "in phase",
+        "option2": "out of phase by 60°",
+        "option3": "out of phase by 90°",
+        "reference": "Common collector - output is in-phase with the input",
+        "question": "In a common collector circuit the output and input are",
+        "answer": "1",
+        "topic": "1.2a. Semiconductors - Transistors"
+      },
+      {
+        "option1": "more positive than the base",
+        "option2": "less positive than the emitter",
+        "option3": "more positive than the emitter",
+        "reference": "Sketch an NPN circuit and mark the two current flows. Aircraft Electricity and Electronics 5th Edition Eismin Page 116",
+        "question": "For an NPN transistor to conduct the collector circuit has to be",
+        "answer": "1",
+        "topic": "1.2a. Semiconductors - Transistors"
+      },
+      {
+        "option1": "smaller Collector to Emitter",
+        "option2": "same both ways",
+        "option3": "higher Collector to Emitter",
+        "reference": "Without looking too deeply into it,a transistor is two diodes back-to-back, so have high resistance both ways. Aircraft Electricity and Electronics 5th Edition Eismin Page 119",
+        "question": "The resistance measured using an AVO between the Collector and Emitter of a transistor is",
+        "answer": "2",
+        "topic": "1.2a. Semiconductors - Transistors"
+      },
+      {
+        "option1": "current amplifiers",
+        "option2": "both current amplifiers and voltage amplifiers",
+        "option3": "voltage amplifiers",
+        "reference": "A transistor can amplify either current or voltage or both, depending on the configuration (CE, CB, CC)",
+        "question": "A transistor is used in",
+        "answer": "2",
+        "topic": "1.2a. Semiconductors - Transistors"
+      },
+      {
+        "option1": "Emitter to base",
+        "option2": "Emitter to collector",
+        "option3": "Collector to emitter",
+        "reference": "PNP, current (conventional) flows emitter to collector",
+        "question": "In which direction does the current flow on a PNP transistor when forward biased?",
+        "answer": "2",
+        "topic": "1.2a. Semiconductors - Transistors"
+      },
+      {
+        "option1": "Base",
+        "option2": "Collector",
+        "option3": "Emitter",
+        "reference": "In a NPN electrons (NOT conventional current) leave at the Emitter",
+        "question": "With an NPN transistor electrons leave the",
+        "answer": "3",
+        "topic": "1.2a. Semiconductors - Transistors"
+      },
+      {
+        "option1": "base circuit",
+        "option2": "emitter circuit",
+        "option3": "collector circuit",
+        "reference": "Decreasing the collector resistance(RL) increases the output voltage of the transistor",
+        "question": "To decrease the voltage gain of a common emitter amplifier you would increase the resistance in the",
+        "answer": "3",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "low impedance",
+        "option2": "current operated",
+        "option3": "high impedance",
+        "reference": "The biggest advantage of a FET is its high input impedance",
+        "question": "A FET when compared to a junction transistor is",
+        "answer": "3",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "low resistance output",
+        "option2": "low current amplification",
+        "option3": "high voltage amplification",
+        "reference": "The emitter follower (common collector) has the lowest output resistance of all three configurations",
+        "question": "One characteristic of the emitter follower is",
+        "answer": "1",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "common base configuration",
+        "option2": "common emitter configuration",
+        "option3": "common collector configuration",
+        "reference": "Only the common base configuration provides a current gain of less than1",
+        "question": "An amplifier current gain will be slightly less than 1, but its voltage gain will be high, if it is connected in the",
+        "answer": "1",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "voltage amplifiers or power amplifiers",
+        "option2": "voltage amplifiers or impedance amplifiers",
+        "option3": "common emitter or common collector amplifiers",
+        "reference": "Amplifiers are classified as either voltage or power amplifiers",
+        "question": "Amplifiers may be classified as",
+        "answer": "1",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "common collector configuration",
+        "option2": "common emitter configuration",
+        "option3": "common base configuration",
+        "reference": "Only the common emitter configuration provides both current and voltage gain greater than 1",
+        "question": "An amplifier can provide both voltage gain and current gain when it is connected in the",
+        "answer": "2",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "decrease base circuit bias",
+        "option2": "decrease input resistance",
+        "option3": "decrease output resistance",
+        "reference": "Amplifier gain = feedback resistance / input resistance",
+        "question": "How do you increase voltage gain of an amplifier?",
+        "answer": "2",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "in phase",
+        "option2": "equal",
+        "option3": "out of phase",
+        "reference": "The common emitter amplifier is the only configuration which provides an output which is anti-phase with the input",
+        "question": "The input and output signals of a common emitter amplifier are",
+        "answer": "3",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "no currents are flowing",
+        "option2": "it is unbiased",
+        "option3": "no signal is applied to the input",
+        "reference": "The quiescent state of a transistor is when DC is supplied to the base to bias the transistor. No signal is applied",
+        "question": "A transistor is said to be in the quiescent state when",
+        "answer": "3",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "drain, source and gate",
+        "option2": "drain, collector and junctions",
+        "option3": "base, collector and emitter",
+        "reference": "The leads of a FET are called drain,source and gate. Aircraft Electricity and Electronics5th Edition Eismin Page 120",
+        "question": "In a FET, the junction connections are called",
+        "answer": "1",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "Collector to collector",
+        "option2": "Emitter to emitter",
+        "option3": "Base to base",
+        "reference": "A push pull amplifier is wired emitter to emitter",
+        "question": "How is a push-pull transistor arrangement connected?",
+        "answer": "2",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "excessive heat causing maximum current flow",
+        "option2": "excessive heat causing minimum current flow",
+        "option3": "low heat causing minimum current flow",
+        "reference": "Thermal runaway is caused by excessive temperature creating an increase incurrent flow and hence an increase in temperature etc.",
+        "question": "Thermal runaway in a transistor is caused by",
+        "answer": "1",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "it has high power gain",
+        "option2": "it is a voltage follower",
+        "option3": "it has high voltage gain",
+        "reference": "Common emitter configuration has a high power gain",
+        "question": "An advantage of a common emitter is",
+        "answer": "1",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "Low resistance both ways",
+        "option2": "High resistance one way",
+        "option3": "High resistance both ways",
+        "reference": "Draw a transistor as 2 back to back diodes and work it out from there (same for PNP as NPN). Aircraft Electricity and Electronics 5thEdition Eismin Page 119",
+        "question": "When testing a transistor with an ohmmeter, what is the resistance of the emitter/collector?",
+        "answer": "3",
+        "topic": "1.2b. Semiconductors - Transistors"
+      },
+      {
+        "option1": "low resistance",
+        "option2": "zero resistance",
+        "option3": "high resistance",
+        "reference": "A transistor at saturation is switched on - therefore has low resistance",
+        "question": "A transistor at saturation has",
+        "answer": "1",
+        "topic": "1.2b. Semiconductors - Transistors"
+      }
+]

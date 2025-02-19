@@ -1,0 +1,353 @@
+[
+{
+    "option1": "DC pass only",
+    "option2": "AC and DC pass to the next stage",
+    "option3": "AC pass only",
+    "reference": "A capacitor lets AC pass only",
+    "question": "A capacitor-resistor coupled multistage amplifier lets",
+    "answer": "3",
+    "topic": "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "option1": "90 degrees out of phase",
+    "option2": "180 degrees out of phase",
+    "option3": "in-phase",
+    "reference": "An oscillator provides positive in-phase feedback to switch itself over",
+    "question": "An oscillator operating at its natural frequency has feedback which is",
+    "answer": "3",
+    "topic": "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "option1": "Addition",
+    "option2": "Subtraction",
+    "option3": "Multiplication",
+    "reference": "A modulator amplifier is a basic input/output amplifier used for amplifying a signal.It 'multiplies' the input signal by the value of the gain",
+    "question": "Which mathematical operation is performed by a modulator amplifier?",
+    "answer": "3",
+    "topic": "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "option1": "either of the above depending on resistance in the circuit",
+    "option2": "current sensitive",
+    "option3": "voltage sensitive",
+    "reference": "A JFET is voltage sensitive,where as a normal transistor is current sensitive.Aircraft Electricity and Electronics 5th EditionEismin Page 119",
+    "question": "A JFET is",
+    "answer": "3",
+    "topic": "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "option1": "high current flow when temperature decreases",
+    "option2": "low current flow when temperature increases",
+    "option3": "high current flow when temperature increases",
+    "reference": "Thermal runaway is caused by the'negative temperature coefficient' of semiconductors. More heat, less resistant, hence more current. More current, more heat etc.",
+    "question": "Thermal runaway in a transistor refers to",
+    "answer": "3",
+    "topic": "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "option1": "the switching time is quicker",
+    "option2": "the input resistance is higher",
+    "option3": "the input resistance is lower",
+    "reference": "A FET has a high input resistance and a low output resistance",
+    "question": "An advantage of a FET when compared to a bi-polar transistor is",
+    "answer": "2",
+    "topic": "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "option1": "Between pins 1 & 8",
+    "option2": "Close to the positive pin",
+    "option3": "Close to the negative pin",
+    "reference": "Close' is an important requirement. The capacitor has to be as close aspossible to the +ve power supply pin. Answer a)could also be true assuming pin 8 to be ground,but in the real world not all pin 8s are negative,especially in DIL packages with more than 8 pins",
+    "question": "Where are decoupling capacitors used in digital circuits?",
+    "answer": "2",
+    "topic": "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "option1": "Medium Voltage Gain, High Current Gain, Non-Inverted Output",
+    "option2": "Low Voltage Gain, High Current Gain, Inverted Output",
+    "option3": "Medium Voltage Gain, Low Current Gain, Inverted Output",
+    "reference": "Common collector is a voltage follower, with high current gain",
+    "question": "A Common Collector circuit has the following characteristics",
+    "answer": "1",
+    "topic": "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "option1": "load control",
+    "option2": "biasing",
+    "option3": "stabilisation",
+    "reference": "The emitter resistor is a stabilizing resistor",
+    "question": "In a Common Emitter Amplifier RE is used for",
+    "answer": "3",
+    "topic": "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "option1": "option2",
+    "option2": "option3",
+    "option3": "option1",
+    "reference": "Best amplifier is a Class A",
+    "question": "The most suitable class of amplifier for a high fidelity radio transmitter is",
+    "answer": "3",
+    "topic": "1.2b. Semiconductors - Transistors"
+  },
+  {
+    "option1": "by metal screws",
+    "option2": "by metal oxide film",
+    "option3": "by means of wires connecting them",
+    "reference": "A thin film of aluminium is coated over the oxide film onto the surface of the IC to make the conductors",
+    "question": "In an integrated circuit, the components are mounted",
+    "answer": "3",
+    "topic": "1.3a. Integrated Circuits"
+  },
+  {
+    "option1": "Double",
+    "option2": "Zero",
+    "option3": "Half",
+    "reference": "Although the input waves are anti-phase, the inverter input of the op amp inverts oneof the inputs, so the two waves actually add to each other",
+    "question": "In an operational amplifier, the two input waves are the same amplitude, same frequency, but exactly anti-phase.What would the output be?",
+    "answer": "1",
+    "topic": "1.3a. Integrated Circuits"
+  },
+  {
+    "option1": "And",
+    "option2": "Or",
+    "option3": "Not",
+    "reference": "A+B+C represents an OR gate",
+    "question": "In the following Boolean algebra statement, which gate is described?. F = A + B + C",
+    "answer": "2",
+    "topic": "1.3a. Integrated Circuits"
+  },
+  {
+    "option1": "Nand",
+    "option2": "And",
+    "option3": "Nor",
+    "reference": "A.B.C represents an AND gate",
+    "question": "In the Boolean algebra statement below, the gate described is F = A.B.C",
+    "answer": "2",
+    "topic": "1.3a. Integrated Circuits"
+  },
+  {
+    "option1": "Class B amp.",
+    "option2": "Class A amp.",
+    "option3": "Op amp.",
+    "reference": "impedance and zero output impedance are characteristics of the ideal op amp",
+    "question": "Infinite gain,infinite input impedance and zero output impedance is characteristic of a",
+    "answer": "3",
+    "topic": "1.3a. Integrated Circuits"
+  },
+  {
+    "option1": "The circuit has 2 stable states and will stay in which one it is put",
+    "option2": "The circuit has 1 stable state and it can be negative or positive",
+    "option3": "The circuit has 2 stable states and will stay in both at the same time",
+    "reference": "A bistable circuit has 2 stable states and it will be in only one at a time.",
+    "question": "What is meant bya bistable circuit?",
+    "answer": "1",
+    "topic": "1.3a. Integrated Circuits"
+  },
+  {
+    "option1": "The op amp bandwidth",
+    "option2": "The gain of the op-amp",
+    "option3": "The resistors in the circuit",
+    "reference": "The output of an op-amp is controlled by the external resistor circuit",
+    "question": "What does the output voltage of an op-amp depend upon?",
+    "answer": "3",
+    "topic": "1.3a. Integrated Circuits"
+  },
+  {
+    "option1": "NAND gate",
+    "option2": "NOR gate",
+    "option3": "AND gate",
+    "reference": "An AND gate can be made by inverting both the inputs and the output of an OR gate",
+    "question": "What type of gate is an OR gate with both inverted inputs and inverted outputs?",
+    "answer": "3",
+    "topic": "1.3a. Integrated Circuits"
+  },
+  {
+    "option1": "from left to right from the dot",
+    "option2": "counter clockwise from the dot",
+    "option3": "clockwise from the dot",
+    "reference": "Pins on an IC are always numbered counter-clockwise from the dot. Aircraft Electricityand Electronics 5th Edition Eismin Page 140",
+    "question": "How are the pins numbered on an op-amp IC?",
+    "answer": "2",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "clockwise",
+    "option2": "from left to right",
+    "option3": "anti clockwise",
+    "reference": "On an IC the pins are counted anti-clockwise. Aircraft Electricity and Electronics 5thEdition Eismin Page 140",
+    "question": "On an integrated circuit the hole in the top left corner is pin 1. The pins are counted",
+    "answer": "3",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "7",
+    "option2": "8",
+    "option3": "4",
+    "reference": "Inverting and non-inverting input,output, positive and negative supply, two offset null connections (for a potentiometer) plus one legnot used = 8. Aircraft Electricity and Electronics 5thEdition Eismin Page 140",
+    "question": "A single integrated circuit Op Amp has how many pins?",
+    "answer": "2",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "2 or more outputs",
+    "option2": "one of 2 states of logic output",
+    "option3": "an analogue output",
+    "reference": "Logic circuit outputs are either 0 or 1, regardless of the number of gates in the circuit",
+    "question": "A logic circuit with more than one gate will have",
+    "answer": "2",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "on the surface",
+    "option2": "in the solid",
+    "option3": "don't need them",
+    "reference": "Components on an integrated circuit are on the surface of the substrate",
+    "question": "Components on an integrated circuit are",
+    "answer": "1",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "reset the true output to 0",
+    "option2": "clock in new data from the data inputs",
+    "option3": "reset the true output to 1",
+    "reference": "When the value on reset (R) is 1,the value of Q is set to 0 and vice versa",
+    "question": "A momentary input at the reset input of a flip flop will",
+    "answer": "1",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "JK",
+    "option2": "D",
+    "option3": "RS",
+    "reference": "The D type Flip Flop has only 1input (besides the clock input)",
+    "question": "Which type of flip flop has only 1 data input?",
+    "answer": "2",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "low input impedance and high output impedance",
+    "option2": "high input impedance and low output impedance",
+    "option3": "the same input an output impedance",
+    "reference": "An op amp is characterised by its high input impedance and low output impedance.Aircraft Electricity and Electronics 5th EditionEismin Page 288",
+    "question": "When you use an op amp as a buffer it has",
+    "answer": "2",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "One trigger pulse to both switch on and off",
+    "option2": "One trigger pulse to switch on and two trigger pulses to switch off",
+    "option3": "One trigger pulse to switch on and another to switch off",
+    "reference": "Monostable multivibrators can remain only in one state permanently. When an external trigger pulse is applied, the circuit moves from its permanent stable state then drops back after a short while",
+    "question": "What is required for the switching of a monostable multivibrator?",
+    "answer": "1",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "one which requires no input whatsoever",
+    "option2": "one which requires an input to switch on and off",
+    "option3": "free running vibrator",
+    "reference": "An a stable multivibrator flipson/off continuously providing it has a power supply",
+    "question": "An a stable multivibrator is a",
+    "answer": "3",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "26 VAC",
+    "option2": "5-15 VDC",
+    "option3": "26 VDC",
+    "reference": "Power supplies vary from op-amp to op-amp (manufacturer to manufacturer) but most are +/- 5v to +/- 15v",
+    "question": "Op amps use what power supply?",
+    "answer": "2",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "Op-Amp",
+    "option2": "Class A amp",
+    "option3": "Class B amp",
+    "reference": "This is the definition of an Op-Amp",
+    "question": "A device which has a high input impedance, low output impedance and high voltage gain is a",
+    "answer": "1",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "a three dimensional process with no connections between them required",
+    "option2": "wires connecting them using conformal coating",
+    "option3": "metal oxide film etched onto the surface",
+    "reference": "All three answers are close to the truth. c) is probably the closest. Aircraft Electricityand Electronics 5th Edition Eismin Page 138",
+    "question": "In an integrated circuit, the components are mounted by",
+    "answer": "3",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "automatically",
+    "option2": "by doping in successive layers",
+    "option3": "manually",
+    "reference": "An integrated circuit is produced by masking and doping each P and N component successively. Aircraft Electricity and Electronics 5thEdition Eismin Page 121",
+    "question": "In an integrated circuit, the components are inserted",
+    "answer": "2",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "utilizes both sides of the input signal",
+    "option2": "decreases impedance",
+    "option3": "blocks half of the input signal",
+    "reference": "During the positive portion of the AC input signal, the NPN follower drives the output, and during the negative half, the PNPdrives the output",
+    "question": "In an electronic circuit with an operational amplifier connected inthe push-pull configuration, the circuit",
+    "answer": "1",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "positive input DC pin",
+    "option2": "non-inverting input",
+    "option3": "positive offset null",
+    "reference": "741 Op-Amp (for example) is the non-inverting input",
+    "question": "Pin 3 on an op-amp has a + symbol. This designates",
+    "answer": "2",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "silicon",
+    "option2": "phiidide",
+    "option3": "germanium",
+    "reference": "Silicon is most commonly used",
+    "question": "The semiconductor substrate used in 'chips' is most commonly",
+    "answer": "1",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "doping impurities into layers of intrinsic material",
+    "option2": "etching copper tracks onto an insulating board",
+    "option3": "computer hardware, which use individual circuits on ribbon",
+    "reference": "Aircraft Instruments and Integrated Systems Pallett Page 149/150",
+    "question": "An integrated circuit is manufactured by",
+    "answer": "1",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "is switched on by a trigger pulse then within a pre-set time will eventually return to its original state",
+    "option2": "uses a trigger pulse to turn on and the same pulse to turn off",
+    "option3": "uses one pulse to turn on and another to turn off",
+    "reference": "A monostable vibrator is switched on by a trigger pulse then within a pre-set time will eventually return to its original state",
+    "question": "A monostable vibrator",
+    "answer": "1",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "1000",
+    "option2": "1/1000",
+    "option3": "-1000",
+    "reference": "Gain = Feedback/input resistance =100,000/100 = 1000 (minus because it is inverting)",
+    "question": "The input resistance to an inverting op-amp is 100 Ohms.The feedback resistance is 100 kilohms. What is the amplifier gain?",
+    "answer": "3",
+    "topic": "1.3b. Integrated Circuits"
+  },
+  {
+    "option1": "connected by fine gold wires",
+    "option2": "mounted on the outside of the solid block",
+    "option3": "embedded within the solid block",
+    "reference": "Hence the term 'integrated circuit'",
+    "question": "In an integrated circuit, active, passive and connecting components are",
+    "answer": "3",
+    "topic": "1.3b. Integrated Circuits"
+  }
+]

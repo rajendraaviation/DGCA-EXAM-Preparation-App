@@ -1,0 +1,102 @@
+[
+    {
+        "topic": "1.1a. Semiconductors - Diodes",
+        "question": "What gives the colour of an LED?",
+        "publisherName": "Rajendra Kumar Dangi",
+        "option1": "The active element",
+        "option2": "The plastic it is encased in",
+        "option3": "The type of gas used inside it",
+        "answer": 1,
+        "reference": "The active element is the element used in the doping of the semiconductor material. Aircraft Electricity and Electronics 5th Edition Eismin Page 121"
+    },
+    {
+        "topic": "1.1a. Semiconductors - Diodes",
+        "question": "A germanium diode is used for",
+        "publisherName": "Rajendra Kumar Dangi",
+        "option1": "rectification",
+        "option2": "voltage stabilization",
+        "option3": "modulation",
+        "answer": 1,
+        "reference": "Germanium diode has the least forward bias voltage drop and is best for rectification"
+    },
+    {
+        "topic": "1.1a. Semiconductors - Diodes",
+        "question": "Why is a diode put in parallel with an LED?",
+        "publisherName": "Rajendra Kumar Dangi",
+        "option1": "To protect it from AC",
+        "option2": "So it will work only above a certain voltage",
+        "option3": "So it will work only below a certain voltage",
+        "answer": 1,
+        "reference": "An LED has a high forward bias voltage drop but is easily damaged when reverse biased. AC is therefore not good for an LED"
+    },
+    {
+        "topic": "1.1a. Semiconductors - Diodes",
+        "question": "When testing the forward bias of a diode with a multimeter",
+        "publisherName": "Rajendra Kumar Dangi",
+        "option1": "the positive lead of the ohmmeter is placed on the anode",
+        "option2": "it does not matter which terminal the positive lead of the ohmeter is placed",
+        "option3": "the positive lead of the ohmmeter is placed on the cathode",
+        "answer": 1,
+        "reference": "To test forward bias, the positive lead of the multimeter must be placed on the anode. Note: If the question says 'moving coil meter' then it would be the negative lead on the anode, since the negative side of the battery in such a meter is connected to the + lead. Aircraft Electricity and Electronics 5th Edition Eismin Page 113"
+    },
+    {
+        "topic": "1.1a. Semiconductors - Diodes",
+        "question": "Which of the following describes the characteristics of a Thyristor?",
+        "publisherName": "Rajendra Kumar Dangi",
+        "option1": "High voltage handling",
+        "option2": "High power handling",
+        "option3": "High current handling",
+        "answer": 3,
+        "reference": "A thyristor (such as an SCR) is a high current switching"
+    },
+    {
+        "topic": "1.1a. Semiconductors - Diodes",
+        "question": "A silicon diode,when compared to a germanium diode has",
+        "publisherName": "",
+        "option1": "a higher forward bias voltage",
+        "option2": "the same forward bias voltage",
+        "option3": "less forward bias voltage",
+        "answer": 1,
+        "reference": "Si = 0.6V, Ge = 0.2V. Aircraft Electricity and Electronics 5th Edition Eismin Page111"
+    },
+    {
+        "topic": "1.1a. Semiconductors - Diodes",
+        "question": "A zener diode",
+        "publisherName": "Rajendra Kumar Dangi",
+        "option1": "allows current to flow in one direction",
+        "option2": "stabilizes voltage at a pre determined level",
+        "option3": "acts like a switch",
+        "answer": 2,
+        "reference": "Zener diodes are usually used involtage regulator circuits. Aircraft Electricity and Electronics 5th Edition Eismin Page 385"
+    },
+    {
+        "topic": "1.1a. Semiconductors - Diodes",
+        "question": "To check the forward resistance of a diode with a multimeter, the lead connected to the positive terminal is put to the",
+        "publisherName": "Rajendra Kumar Dangi",
+        "option1": "anode",
+        "option2": "cathode",
+        "option3": "either anode or cathode",
+        "answer": 1,
+        "reference": "To forward bias a diode with amultimeter, the positive lead must be connected to the anode. Note: If it were a moving coil meter,you must connect the negative lead to the anode since the positive end of the battery is connected to the negative lead"
+    },
+    {
+        "topic": "1.1a. Semiconductors - Diodes",
+        "question": "A diode connected across a relay coil is used to",
+        "publisherName": "Rajendra Kumar Dangi",
+        "option1": "dissipate coil spikes on switch off",
+        "option2": "allow the coil to energize with only one polarity",
+        "option3": "greatly increases the majority carrier current",
+        "answer": 1,
+        "reference": "Aircraft Electricity and Electronics 5th Edition Eismin Page 121 reading material"
+    },
+    {
+        "topic": "1.1a. Semiconductors - Diodes",
+        "question": "A thyristor has which of the following?",
+        "publisherName": "Rajendra Kumar Dangi",
+        "option1": "A positive temperature coefficient",
+        "option2": "High resistance when switched off",
+        "option3": "High resistance when switched on",
+        "answer": 2,
+        "reference": "The thyristor (such as an SCR orTRIAC) is basically a switch which provides a high resistance when switched off"
+    }
+]

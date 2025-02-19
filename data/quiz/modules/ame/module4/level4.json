@@ -1,0 +1,362 @@
+[
+  {
+    "topic": "1.1a. Semiconductors - Diodes",
+    "question": "In an LED, what isused to make the colour?",
+    "option1": "The plastic lens cover",
+    "option2": "The electrons",
+    "option3": "The doping material",
+    "answer": "3",
+    "reference": "The dopant is what gives the LED its colour"
+  },
+  {
+    "option1": "a C type material",
+    "option2": "a P type material",
+    "option3": "an N type material",
+    "reference": "An atom with five electrons in its outer shell (pentavalent) will provide an extra free electron and make the material an N type. Aircraft Electricity and Electronics 5th Edition Eismin Page110.",
+    "question": "An atom with 5electrons in its outer shell is part of",
+    "answer": "3",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "overvolts regulation",
+    "option2": "voltage regulation",
+    "option3": "rectification",
+    "reference": "A thyristor (especially an SCR) is often used for rectification",
+    "question": "A thyristor is commonly used for",
+    "answer": "3",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "light emitting",
+    "option2": "varactor",
+    "option3": "zener",
+    "reference": "Photons = light, so a diode which emits light is a Light Emitting Diode",
+    "question": "A diode which emits photons when conducting is a",
+    "answer": "1",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "gate, cathode, anode",
+    "option2": "source, drain, gate",
+    "option3": "anode, cathode, source",
+    "reference": "The electrodes of an SCR are the anode, cathode and the gate. Aircraft Electricity and Electronics 5th Edition Eismin Page 120",
+    "question": "The electrodes ofan SCR are",
+    "answer": "1",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "A gas",
+    "option2": "The cover",
+    "option3": "Composition and impurity of the compound",
+    "reference": "It is the doping element which gives an LED its colour",
+    "question": "What gives an LED its colour?",
+    "answer": "3",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "1.6V",
+    "option2": "0.6V",
+    "option3": "0.2V",
+    "reference": "Si = 0.6V, Ge = 0.2V Aircraft Electricity and Electronics 5th Edition Eismin Page111 or 113",
+    "question": "Forward voltage ofa silicon diode is",
+    "answer": "2",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "LED",
+    "option2": "Gunn diode",
+    "option3": "Schottky diode",
+    "reference": "LEDs give off light (photons) when forward biased",
+    "question": "What is the typical volts drop across an LED",
+    "answer": "1",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "forward biased not conducting",
+    "option2": "reverse biased not conducting",
+    "option3": "forward biased conducting",
+    "reference": "Forward bias is anode to cathode.4V fwd bias and 2V reverse bias, the diode is 2V fwd bias in total",
+    "question": "The anode of adiode is connected to a +4V DC supply and the cathode is connected to a +2V DC supply. The diode is",
+    "answer": "3",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "Anode to Cathode",
+    "option2": "Cathode to Base",
+    "option3": "Cathode to Anode",
+    "reference": "ELECTRON FLOW (i.e. Americannotation) is cathode to anode (against the arrowdirection). Aircraft Electricity and Electronics 5thEdition Eismin Page 111",
+    "question": "Using electronflow in a diode the current flows from",
+    "answer": "3",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "raises the potential barrier",
+    "option2": "it becomes a minority carrier in then region",
+    "option3": "lowers the potential barrier",
+    "reference": "The potential barrier is formed by holes diffusing from the P region to the N region,(and electrons diffusing from the N region to the Pregion)",
+    "question": "When a hole diffuses from the p region to the n region",
+    "answer": "1",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "can handle only small currents",
+    "option2": "is similar to a vacuum diode but can not rectify",
+    "option3": "has one p-n junction",
+    "reference": "A junction diode is so named for its one junction. Aircraft Electricity and Electronics 5th Edition Eismin Page 111",
+    "question": "A junction diode",
+    "answer": "3",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "has a lower forward bias voltage than a silicon diode",
+    "option2": "has a higher forward bias voltage than a silicon diode",
+    "option3": "has the same forward bias voltage as a silicon diode",
+    "reference": "Forward bias voltage of germanium diode = 0.2 V. Silicon diode = 0.6 V.Aircraft Electricity and Electronics 5th Edition Eismin Page 111",
+    "question": "A germanium diode",
+    "answer": "1",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "Reverse bias gate",
+    "option2": "Remove the gate voltage",
+    "option3": "Remove supply voltage",
+    "reference": "To switch off a thyristor (such as an SCR) you must disconnect the supply voltage.Aircraft Electricity and Electronics 5th Edition Eismin Page 120",
+    "question": "What switches off a thyristor?",
+    "answer": "3",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "low resistance",
+    "option2": "no change in resistance",
+    "option3": "high resistance",
+    "reference": "An SCR is basically a switch, which,when switched on has a low resistance. Aircraft Electricity and Electronics 5th Edition Eismin Page120",
+    "question": "When an SCR is switched on it has",
+    "answer": "1",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "Positive",
+    "option2": "Negative",
+    "option3": "Positive or negative",
+    "reference": "A positive pulse is required to switch an SCR on",
+    "question": "What type of pulse is required to switch on an SCR?",
+    "answer": "1",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "is electrically stable",
+    "option2": "has a deficit of electrons",
+    "option3": "has an excess of electrons",
+    "reference": "In a solid piece of semiconductor material, all the valence electrons are occupied inthe covalent bond. It does not conduct electricity.Aircraft Electricity and Electronics 5th Edition Eismin Page 110",
+    "question": "A piece of pure Germanium",
+    "answer": "1",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "germanium bias junction",
+    "option2": "majority carriers",
+    "option3": "minority carriers",
+    "reference": "Forward bias = majority carriers",
+    "question": "When a diode is forward biased, current flow is mainly due to the",
+    "answer": "2",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "positive lead is connected to both N and P type",
+    "option2": "positive lead is connected to the N type and negative to the P type",
+    "option3": "positive lead is connected to the P type and negative to the N type",
+    "reference": "To forward biased, connect Positive to P, Negative to N. Aircraft Electricity and Electronics 5th Edition Eismin Page 117",
+    "question": "When a diode is forward biased the",
+    "answer": "3",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "2V",
+    "option2": "4V",
+    "option3": "6V",
+    "reference": "2V typical",
+    "question": "The typical voltage drop across an L.E.D is",
+    "answer": "1",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "Electrons and holes",
+    "option2": "Holes",
+    "option3": "Electrons",
+    "reference": "Majority carriers are electrons in the N material, and holes in the P material",
+    "question": "What are the majority carriers for a forward biased PN junction device?",
+    "answer": "1",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "negatively charged",
+    "option2": "neutral",
+    "option3": "positively charged",
+    "reference": "Both germanium and silicon areneutrally charged, even when doped. Aircraft Electricity and Electronics 5th Edition Eismin Page110",
+    "question": "Germanium in its pure state is",
+    "answer": "2",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "Silicon",
+    "option2": "Germanium",
+    "option3": "Both have the same forward bias voltage",
+    "reference": "Silicon about 0.6V, Germanium about 0.2V. Aircraft Electricity and Electronics 5thEdition Eismin Page 111",
+    "question": "Which diode has a lower forward bias voltage?",
+    "answer": "2",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "voltage stabilisation",
+    "option2": "rectification",
+    "option3": "voltage regulation",
+    "reference": "A Zener diode is used for voltage regulation. Aircraft Electricity and Electronics 5thEdition Eismin Page 120",
+    "question": "A Zener diode is used for",
+    "answer": "3",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "Thyristor",
+    "option2": "Diode",
+    "option3": "Transistor",
+    "reference": "Although a thyristor (SCR) can beused, a diode is more common. Aircraft Electricity and Electronics 5th Edition Eismin Page 113",
+    "question": "What componentis used to turn AC to DC?",
+    "answer": "2",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "One with added elements",
+    "option2": "One with removed elements",
+    "option3": "A pure material",
+    "reference": "Intrinsic is a pure material",
+    "question": "What is anintrinsic material?",
+    "answer": "3",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "1 V",
+    "option2": "0.7V",
+    "option3": "0.3V",
+    "reference": "Aircraft Electricity and Electronics 5th Edition Eismin Page 111",
+    "question": "The voltage dropof a silicon diode is",
+    "answer": "2",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "provide correct amount of current for LED when circuit is switched on",
+    "option2": "prevent back EMF in the circuit when LED is switched off",
+    "option3": "protect LED from AC current when switched on",
+    "reference": "The negative half cycle of the AC must be by passed around the LED",
+    "question": "A diode is parallel to an LED in an AC circuit to",
+    "answer": "3",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "majority carriers",
+    "option2": "both",
+    "option3": "minority carriers",
+    "reference": "Forward bias is both, reverse biasis minority carriers only",
+    "question": "In a forward biased diode, current is carried by",
+    "answer": "2",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "anode and negative lead to earth",
+    "option2": "cathode and negative lead to anode",
+    "option3": "anode and negative lead to cathode",
+    "reference": "Positive lead to cathode",
+    "question": "When checking a diode for reverse bias resistance the positive lead goes to",
+    "answer": "2",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "the anode",
+    "option2": "the cathode",
+    "option3": "the doped area",
+    "reference": "explainAnswer3=Electrons jump accross the depletion layer from the Cathode (-ve)to the Anode (+ve) to recombine with the holes and close the depletion layer.",
+    "question": "In a forward biased diode, electrons leave the",
+    "answer": "2",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "conductors",
+    "option2": "semi-conductors",
+    "option3": "Insulators",
+    "reference": "Only answer which is correct in both bias configurations",
+    "question": "Diodes are",
+    "answer": "2",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "0.2V",
+    "option2": "1.41V",
+    "option3": "1V",
+    "reference": "Silicon diodes require around 0.7V,so a is the closest",
+    "question": "To function, i.e.conduct, a junction diode made of silicon requires a forward bias of at least",
+    "answer": "3",
+    "topic": "1.1a. Semiconductors - Diodes"
+  },
+  {
+    "option1": "an N type material",
+    "option2": "either an N type or a P type depending on what type of semiconductor material is used",
+    "option3": "a P type material",
+    "reference": "Pentavalent materials make an N type material due to its extra electron. Aircraft Electricity and Electronics 5th Edition Eismin Page110",
+    "question": "A semiconductor doped with an element having a valency of 5 will produce",
+    "answer": "1",
+    "topic": "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "option1": "Rectification",
+    "option2": "Stabilization",
+    "option3": "Very high frequency applications",
+    "reference": "A schottky diode has very little junction capacitance and can be used for very high frequency switching applications",
+    "question": "What is a schottky diode used for?",
+    "answer": "3",
+    "topic": "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "option1": "becomes a minority carrier in then-region",
+    "option2": "lowers the potential barrier",
+    "option3": "raises the potential barrier",
+    "reference": "This is descriptive of holes crossing the PN junction to form the depletion layer.Aircraft Electricity and Electronics 5th EditionEismin Page 111",
+    "question": "When a hole diffuses from a p-region to the n-region it",
+    "answer": "3",
+    "topic": "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "option1": "reverse bias exceeds a certain value",
+    "option2": "forward bias exceeds a certain value",
+    "option3": "forward current becomes excessive",
+    "reference": "Reverse biasing a diode will cause avalanche breakdown at a certain value. AircraftElectricity and Electronics 5th Edition Eismin Page120",
+    "question": "Avalanche break down occurs when",
+    "answer": "1",
+    "topic": "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "option1": "when the flow of minority carriersis sufficient to cause an avalanche breakdown",
+    "option2": "when the depletion layer becomes larger than the space charge area",
+    "option3": "only after the forward bias exceeds the potential barrier",
+    "reference": "A forward biased PN junction will conduct only when the forward bias voltage exceeds the junction barrier - i.e Si = 0.6V, Ge =0.2V",
+    "question": "If forward bias is increased from zero on a p-n junction, a rapid increase in current flow for a relatively small increase in voltage occurs",
+    "answer": "3",
+    "topic": "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "option1": "below the frequency required only",
+    "option2": "above and below the frequency required",
+    "option3": "above the frequency required only",
+    "reference": "A band-pass filter excludes frequencies above and below a particular frequency. Aircraft Electricity and Electronics 5thEdition Eismin Page 288.",
+    "question": "A band pass filter excludes frequencies",
+    "answer": "2",
+    "topic": "1.1b. Semiconductors - Diodes"
+  },
+  {
+    "option1": "Gunn diode",
+    "option2": "Schottky diode",
+    "option3": "Two directional zener diode",
+    "reference": "A two directional zener diode(actually 2 zener diodes back-to-back) is used to stop power spikes",
+    "question": "What diode is used to stop power spikes in a coil?",
+    "answer": "3",
+    "topic": "1.1b. Semiconductors - Diodes"
+  }
+]
