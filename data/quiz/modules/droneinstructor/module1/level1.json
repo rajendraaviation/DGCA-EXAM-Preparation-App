@@ -4,6 +4,7 @@
       "options": ["FAA", "DGCA", "ICAO", "ISRO"],
       "answer": 1,
       "reference": "The Directorate General of Civil Aviation (DGCA) is the principal regulatory body overseeing drone operations in India&#8203;:contentReference[oaicite:0]{index=0}."
+      
   },
   {
       "question": "Which category of airspace is strictly prohibited for drone operations?",
