@@ -1,0 +1,50 @@
+[
+  {
+      "question": "What is the primary regulatory body governing drone operations in India?",
+      "options": ["FAA", "DGCA", "ICAO", "ISRO"],
+      "answer": 1,
+      "reference": "The Directorate General of Civil Aviation (DGCA) is the principal regulatory body overseeing drone operations in India&#8203;:contentReference[oaicite:0]{index=0}."
+      
+  },
+  {
+      "question": "Which category of airspace is strictly prohibited for drone operations?",
+      "options": ["Green Zone", "Red Zone", "Yellow Zone", "Blue Zone"],
+      "answer": 1,
+      "reference": "Red Zones are restricted areas where drone operations require explicit permission from the central government&#8203;:contentReference[oaicite:1]{index=1}."
+  },
+  {
+      "question": "What is the maximum allowed altitude for drones in India without special permissions?",
+      "options": ["200 feet", "400 feet", "600 feet", "800 feet"],
+      "answer": 1,
+      "reference": "As per DGCA regulations, drones are restricted to a maximum altitude of 400 feet above ground level&#8203;:contentReference[oaicite:2]{index=2}."
+  },
+  {
+      "question": "Which document is mandatory to operate a drone commercially in India?",
+      "options": ["Driver's License", "Pilot Certificate", "Remote Pilot License", "Aadhar Card"],
+      "answer": 2,
+      "reference": "A Remote Pilot License (RPL) is required for operating a drone commercially in India&#8203;:contentReference[oaicite:3]{index=3}."
+  },
+  {
+      "question": "What is the purpose of NPNT (No Permission, No Takeoff)?",
+      "options": [
+          "To ensure drone battery safety",
+          "To prevent unauthorized drone flights",
+          "To check drone weight",
+          "To monitor flight speed"
+      ],
+      "answer": 1,
+      "reference": "NPNT is a digital regulatory framework ensuring that only authorized drone flights are conducted&#8203;:contentReference[oaicite:4]{index=4}."
+  },
+  {
+      "question": "What is the validity period of a Remote Pilot Certificate in India?",
+      "options": ["5 years", "10 years", "Lifetime", "3 years"],
+      "answer": 1,
+      "reference": "A Remote Pilot Certificate remains valid for 10 years unless suspended or canceled&#8203;:contentReference[oaicite:5]{index=5}."
+  },
+  {
+      "question": "Which frequency band is commonly used for drone communication?",
+      "options": ["2.4 GHz", "1.8 GHz", "5.8 GHz", "3.6 GHz"],
+      "answer": 0,
+      "reference": "Most drones use 2.4 GHz for control signals due to its stable connectivity and range&#8203;:contentReference[oaicite:6]{index=6}."
+  }
+]
