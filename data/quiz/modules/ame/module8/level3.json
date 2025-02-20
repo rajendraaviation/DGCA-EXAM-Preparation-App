@@ -1,0 +1,281 @@
+[
+    {
+        "option1": "4°C per 1000 ft",
+        "option2": "1.98°C per 1000 ft",
+        "option3": "1.98°F per 1000 ft",
+        "reference": "Read A.C kermode page no.31 , -6.5°C \u003d1000m/1.9°C \u003d1000ft",
+        "question": "What is the lapse rate with regard to temperature?",
+        "answer": "2",
+        "topic": "Temperature"
+    },
+    {
+        "option1": "20 degrees Celsius",
+        "option2": "0 degrees Celsius",
+        "option3": "15 degrees Celsius",
+        "reference": "Read A.C Kermode page no.33",
+        "question": "Standard sea level temperature is",
+        "answer": "3",
+        "topic": "Temperature changes in the atmosphere"
+    },
+    {
+        "option1": "Density",
+        "option2": "Pressure",
+        "option3": "Temperature",
+        "reference": "Temperature lapse rate is constant up to 36000ft -2degrees per 1000ft",
+        "question": "Lapse rate usually refers to",
+        "answer": "3",
+        "topic": "Read AC Kermode ,Temperature lapse rate is constant up to 36000ft -2degrees per 1000ft"
+    },
+    {
+        "option1": "increase exponentially",
+        "option2": "decrease exponentially",
+        "option3": "remain constant",
+        "reference": "Temperature lapse rate up to 36,000 feet (the tropopause) is approximately 2 degrees centigrade per 1000feet. Above the tropopause it is constant",
+        "question": "Temperature above 36,000 feet will",
+        "answer": "3",
+        "topic": "Temperature"
+    },
+    {
+        "option1": "-60°C",
+        "option2": "0°C",
+        "option3": "-45°C",
+        "reference": "Read EASA 1.6,ISA \u003d 15°C temperature lapse rate is 2°C per 1000ft. Therefore 30000 \u003d - 60 + 15 \u003d -45",
+        "question": "What is the temperature in comparison to ISA conditions at 30,000ft?",
+        "answer": "3",
+        "topic": "Temperature"
+    },
+    {
+        "option1": "changes with a change in pressure",
+        "option2": "varies according to the frequency of the sound",
+        "option3": "changes with a change in temperature",
+        "reference": "Speed of sound is affected by air temperature only",
+        "question": "The speed of sound in the atmosphere",
+        "answer": "3",
+        "topic": "Temperature"
+    },
+    {
+        "option1": "Temperature is a measure of the kinetic energy of the molecules of any substance",
+        "option2": "Temperature is a measure of the potential energy of the molecules of any substance",
+        "option3": "There is an inverse relationship between temperature and heat",
+        "reference": "Temperature is a measure of the kinetic energy of the molecules of a substance. Heat is a form of energy exchange",
+        "question": "Which statement concerning heat and/or temperature is true?",
+        "answer": "1",
+        "topic": "Temperature"
+    },
+    {
+        "option1": "the same",
+        "option2": "greater than 20,000ft",
+        "option3": "less than 20,000ft",
+        "reference": "Density Altitude is pressure altitude corrected for temperature and humidity. Assuming constant humidity (weare told no different) ISA or above temperature will further thin the air for a given pressure altitude thus making the density altitude higher. Note : At ISA Temp density and pressure altitude will be the same and for less than ISA density altitude will be less- Got all that!!.",
+        "question": "On a very hot day with ambient temperature higher than ISA, the pressure altitude is 20,000 ft. How much will the density altitude be?",
+        "answer": "2",
+        "topic": "Temperature"
+    },
+    {
+        "option1": "QEF, QNH, QEN",
+        "option2": "QE, QN, QQE",
+        "option3": "QFE, QNH, QNE",
+        "reference": "The ICAO \u0027Q\u0027 codes are QFE. QNE, QNH",
+        "question": "Under the ICAO \u0027Q\u0027 code there are which three settings?",
+        "answer": "3",
+        "topic": "Q-CODES"
+    },
+    {
+        "option1": "The manufacturers registered name",
+        "option2": "Quite fine equipment",
+        "option3": "Setting aerodrome atmospheric pressure so that an altimeter reads zero on landing and take off",
+        "reference": "Q is the mathematical symbol for pressure. FE stands for Field Elevation. QFE refers to setting the altimeter to aerodrome atmospheric pressure so the altimeter reads zero on landing and take off",
+        "question": "With reference to altimeters, QFE is",
+        "answer": "3",
+        "topic": "Q-CODES"
+    },
+    {
+        "option1": "Quite near horizon",
+        "option2": "Setting the altimeter to zero",
+        "option3": "Setting the mean sea level atmospheric pressure so an altimeter reads the aerodrome altitude abovemean sea level",
+        "reference": "Q\u0027 is the mathematical symbol for pressure. \u0027NH\u0027 stands for Nautical Height. QNH refers to the setting of actual sea level atmospheric pressure so the altimeter indicates the actual altitude above sea level of the non-standard day",
+        "question": "QNH refers to",
+        "answer": "3",
+        "topic": "Q-Codes"
+    },
+    {
+        "option1": "Setting the mean sea level atmospheric pressure in accordance with ICAO standard atmosphere i.e.1013 millibars",
+        "option2": "Setting an altimeter to read aerodrome altitude above sea level",
+        "option3": "Quite new equipment",
+        "reference": "Q\u0027 is the mathematical symbol for pressure. \u0027NE\u0027 stands for Nautical Elevation. QNE refers to the settingof the standard sea level atmospheric pressure (i.e. 1013mb) so the altimeter indicates the elevationabove mean sea level. (Although it is not the \u0027true\u0027 elevation, if it is not a standard day)",
+        "question": "QNE refers to",
+        "answer": "1",
+        "topic": "Q-Codes"
+    },
+    {
+        "option1": "Airfield pressure",
+        "option2": "Difference between sea level and airfield pressure",
+        "option3": "Sea level pressure",
+        "reference": "Q\u0027 is the mathematical symbol for pressure. \u0027FE\u0027 stands for Field Elevation. QFE refers to setting airfieldpressure so the altimeter indicates zero on the runway",
+        "question": "QFE is",
+        "answer": "1",
+        "topic": "Q-Codes"
+    },
+    {
+        "option1": "Decreases at constant rate",
+        "option2": "Decreases exponentially",
+        "option3": "Increases exponentially",
+        "reference": "Pressure decreases - sure! But the rate of decrease reduces with altitude",
+        "question": "At higher altitudes as altitude increases, pressure",
+        "answer": "2",
+        "topic": "Pressure"
+    },
+    {
+        "option1": "12,000 ft",
+        "option2": "18,000 ft",
+        "option3": "8,000 ft",
+        "reference": "At 18000 ft, half the pressure is lost already, and there is still another 40,000ft or so to go",
+        "question": "When the pressure is half of that at sea level, what is the altitude?",
+        "answer": "2",
+        "topic": "Pressure"
+    },
+    {
+        "option1": "39.7 PSI",
+        "option2": "10.3 PSI",
+        "option3": "43.8 PSI",
+        "reference": "Absolute pressure \u003d gauge pressure plus atmospheric pressure. Atmospheric pressure at sea level \u003d 14.7PSI",
+        "question": "If gauge pressure on a standard day at sea level is 25 PSI, the absolute pressure is",
+        "answer": "1",
+        "topic": "Pressure"
+    },
+    {
+        "option1": "Inversely proportional to temperature",
+        "option2": "Proportionally with a decreases in temperature",
+        "option3": "Pressure and temperature are not related",
+        "reference": "Temperature and volume are directly proportional - Charles\u0027 Law",
+        "question": "Pressure decreases",
+        "answer": "2",
+        "topic": "Pressure"
+    },
+    {
+        "option1": "1012.3 mb",
+        "option2": "1013.2 mb",
+        "option3": "1032.2 mb",
+        "reference": "Read EASA 1.3 ,Aircraft Instruments indicate in millibars(mb)",
+        "question": "What is sea level pressure?",
+        "answer": "2",
+        "topic": "Pressure"
+    },
+    {
+        "option1": "Temperature decreases at the same rate as pressure reduces",
+        "option2": "Temperature decreases but at a lower rate than pressure reduces",
+        "option3": "Temperature remains constant to 8000 ft",
+        "reference": "See a graph of pressure against altitude and temperature against altitude. Pressure decreases faster than temperature therefore pressure has a greater effect upon the performance of the aircraft",
+        "question": "With increasing altitude pressure decreases and",
+        "answer": "2",
+        "topic": "Pressure"
+    },
+    {
+        "option1": "14.7 psi",
+        "option2": "Inch Hg",
+        "option3": "100 millibar",
+        "reference": "One atmosphere is 14.7 psi",
+        "question": "A pressure of one atmosphere is equal to",
+        "answer": "1",
+        "topic": "Pressure"
+    },
+    {
+        "option1": "Atmospheric temperature",
+        "option2": "Pressure altitude",
+        "option3": "Barometric pressure",
+        "reference": "Read EASA 1.3, Barometric pressure is measured in millibar",
+        "question": "The millibar is a unit of",
+        "answer": "3",
+        "topic": "Pressure"
+    },
+    {
+        "option1": "Pressure",
+        "option2": "Density",
+        "option3": "Temperature",
+        "reference": "Read EASA 1.3, A barometer indicates pressure",
+        "question": "A barometer indicates",
+        "answer": "1",
+        "topic": "Pressure"
+    },
+    {
+        "option1": "Absolute pressure + Atmospheric pressure \u003d Gauge pressure",
+        "option2": "Absolute pressure \u003d Gauge pressure + Atmospheric pressure",
+        "option3": "Atmospheric pressure \u003d Absolute pressure + Gauge pressure",
+        "reference": "Absolute pressure \u003d Gauge pressure + Atmospheric pressure",
+        "question": "Which of the following is correct?",
+        "answer": "2",
+        "topic": "Pressure"
+    },
+    {
+        "option1": "Stagnation pressure + Static pressure \u003d Dynamic",
+        "option2": "Static pressure + Dynamic pressure \u003d Stagnation pressure",
+        "option3": "Static pressure - Dynamic pressure \u003d Stagnation pressure",
+        "reference": "Read A.C Kermode Page No.40,",
+        "question": "Which of the following Statement is correct ?",
+        "answer": "2",
+        "topic": "Pressure"
+    },
+    {
+        "option1": "Stagnation pressure - Static pressure \u003d Dynamic pressure",
+        "option2": "Static pressure + stagnation pressure \u003d Dynamic Pressure",
+        "option3": "Dynamic Pressure \u003d Stagnation pressure+ Static pressure",
+        "reference": "Read A.C Kermode Page no.41",
+        "question": "Dynamic Pressure is?",
+        "answer": "1",
+        "topic": "Pressure"
+    },
+    {
+        "option1": "Troposphere",
+        "option2": "Stratosphere",
+        "option3": "Tropopause",
+        "reference": "Read A.C Kermode Page No.31",
+        "question": "The layer of atmosphere where temperature gradually falls",
+        "answer": "1",
+        "topic": "Temperature Change in the atmosphere"
+    },
+    {
+        "option1": "Rocket",
+        "option2": "Parachute",
+        "option3": "Kite",
+        "reference": "Rocket motors have a very high thrust to weight ratio, its not depends on density",
+        "question": "Which of the following flight operation is not depends on density?",
+        "answer": "1",
+        "topic": "Physics of atmosphere"
+    },
+    {
+        "option1": "1.035 kg/m3",
+        "option2": "1.225 kg/m3",
+        "option3": "1.205 kg/m3",
+        "reference": "Read A.C Kermode Page no.43",
+        "question": "Density of air at sea level",
+        "answer": "2",
+        "topic": "Physics of atmosphere"
+    },
+    {
+        "option1": "Weight per unit volume",
+        "option2": "mass per unit volume",
+        "option3": "None of the above",
+        "reference": "Read A.C Kermode page no.21",
+        "question": "Density is defined as",
+        "answer": "2",
+        "topic": "Physics of atmosphere"
+    },
+    {
+        "option1": "288K",
+        "option2": "273K",
+        "option3": "173K",
+        "reference": "Read A.C Kermode Page no.33 ,here is example of 288k",
+        "question": "Temperature at sea level is?",
+        "answer": "1",
+        "topic": "effect of temperature and pressure on density"
+    },
+    {
+        "option1": "Troposphere",
+        "option2": "Stratosphere",
+        "option3": "tropopause",
+        "reference": "Read EASA 1.5",
+        "question": "The portion of atmosphere below which layer changes in temperature takes place",
+        "answer": "1",
+        "topic": "TEMPERATURE AND ALTITUDE"
+    }
+]

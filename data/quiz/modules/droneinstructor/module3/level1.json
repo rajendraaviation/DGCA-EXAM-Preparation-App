@@ -1,0 +1,341 @@
+[
+    {
+        "question": "What is the primary purpose of ATC in drone operations?",
+        "option1": "Maximize flight speed",
+        "option2": "Ensure safety and efficiency",
+        "option3": "Monitor weather patterns",
+        "option4": "Control camera operations",
+        "answer": "2",
+        "topic": "Understanding ATC operations T1.3.1"
+    },
+    {
+        "question": "Which airspace class is typically uncontrolled and commonly used for drone operations?",
+        "questionImage" : "https://pilotinstitute.com/wp-content/uploads/2024/03/image-143.png",
+        "option1": "Class A",
+        "option2": "Class C",
+        "option3": "Class G",
+        "option4": "Class D",
+        "answer": "3",
+        "topic": "Airspace structure T1.3.5"
+    },
+    {
+        "question": "What is the maximum altitude limit for drones in Yellow Zones without special authorization?",
+        "option1": "100 feet",
+        "option2": "200 feet",
+        "option3": "400 feet",
+        "option4": "1000 feet",
+        "answer": "3",
+        "reference": "Yellow Zone T1.3.10 - Standard height restriction of 400ft AGL applies",
+        "topic": "Flight regulations in Yellow Zone T1.3.10"
+    },
+    {
+        "question": "Which phrase should a drone pilot use to acknowledge an ATC instruction?",
+        "option1": "Roger",
+        "option2": "Affirmative",
+        "option3": "Wilco",
+        "option4": "Copy that",
+        "answer": "3",
+        "reference": "RT Phraseology T1.3.15 - 'Wilco' indicates will comply",
+        "topic": "RT Phraseology T1.3.15"
+    },
+    {
+        "question": "When planning a drone flight, what altimeter setting should be used?",
+        "option1": "QFE",
+        "option2": "QNH",
+        "option3": "QNE",
+        "option4": "QFF",
+        "answer": "2",
+        "reference": "Flight Planning T1.3.20 - QNH gives altitude above mean sea level",
+        "topic": "Flight Planning Procedures T1.3.20"
+    },
+    {
+        "question": "What is the primary collision avoidance responsibility for drone pilots?",
+        "option1": "ATC has full responsibility",
+        "option2": "See-and-avoid principle",
+        "option3": "Rely on transponder signals",
+        "option4": "Maintain constant speed",
+        "answer": "2",
+        "reference": "Collision avoidance T1.3.25 - Pilot's primary responsibility",
+        "topic": "Collision avoidance T1.3.25"
+    },
+    {
+        "question": "What radio communication technique is critical for drone operations near airports?",
+        "option1": "Whisper mode",
+        "option2": "Brevity and clarity",
+        "option3": "Continuous transmission",
+        "option4": "Frequency hopping",
+        "answer": "2",
+        "reference": "RT techniques - Clear communication essential in busy airspace",
+        "topic": "Radio Telephony techniques"
+    },
+    {
+        "question": "Which area is always a no-drone zone?",
+        "option1": "Public parks",
+        "option2": "Airport flight paths",
+        "option3": "Farmland",
+        "option4": "Industrial areas",
+        "answer": "2",
+        "reference": "No drone zones - T1.3.5 restrictions near airports",
+        "topic": "Airspace restrictions"
+    },
+    {
+        "question": "What information is crucial in position reporting to ATC?",
+        "option1": "Drone color",
+        "option2": "Altitude and location",
+        "option3": "Battery level",
+        "option4": "Camera model",
+        "answer": "2",
+        "reference": "Position Reporting T1.3.15 - Essential for traffic separation",
+        "topic": "RT Phraseology T1.3.15"
+    },
+    {
+        "question": "When must a drone pilot establish radio contact with ATC?",
+        "option1": "Only in emergency",
+        "option2": "When entering controlled airspace",
+        "option3": "Every 10 minutes",
+        "option4": "Before takeoff always",
+        "answer": "2",
+        "reference": "ATC operations T1.3.1 - Mandatory in controlled airspace",
+        "topic": "Understanding ATC operations T1.3.1"
+    },
+    {
+        "question": "What does NOTAM stand for in flight planning?",
+        "option1": "Notice To Air Missions",
+        "option2": "Notice To Airmen",
+        "option3": "National Air Traffic Manual",
+        "option4": "Notice of Airspace Management",
+        "answer": "2",
+        "reference": "Flight Planning T1.3.20 - Essential pre-flight information",
+        "topic": "Flight Planning Procedures T1.3.20"
+    },
+    {
+        "question": "Which altitude reference is used when flying under 3,000ft?",
+        "option1": "Flight Level",
+        "option2": "Altitude (QNH)",
+        "option3": "Height (QFE)",
+        "option4": "Pressure altitude",
+        "answer": "2",
+        "reference": "Altimeter settings T1.3.20 - QNH used below transition altitude",
+        "topic": "Flight Planning Procedures T1.3.20"
+    },
+    {
+        "question": "What action should follow a 'STANDBY' instruction from ATC?",
+        "option1": "Immediately land",
+        "option2": "Wait for further instructions",
+        "option3": "Change frequency",
+        "option4": "Repeat request",
+        "answer": "2",
+        "reference": "RT techniques - Standard ATC communication procedure",
+        "topic": "Radio Telephony techniques"
+    },
+    {
+        "question": "Which aircraft has right of way over drones?",
+        "option1": "All manned aircraft",
+        "option2": "Only airliners",
+        "option3": "Military aircraft",
+        "option4": "Police helicopters",
+        "answer": "1",
+        "reference": "Collision avoidance T1.3.25 - Drones must yield to all manned aircraft",
+        "topic": "Collision avoidance T1.3.25"
+    },
+    {
+        "question": "What is the maximum distance for VLOS drone operations?",
+        "option1": "100m",
+        "option2": "500m",
+        "option3": "1km",
+        "option4": "No fixed limit",
+        "answer": "2",
+        "reference": "Flight regulations T1.3.10 - Visual Line of Sight requirements",
+        "topic": "Yellow Zone procedures T1.3.10"
+    },
+    {
+        "question": "Which frequency band is typically used for drone ATC communications?",
+        "option1": "HF",
+        "option2": "VHF",
+        "option3": "UHF",
+        "option4": "LF",
+        "answer": "2",
+        "reference": "RT techniques - VHF 118-137 MHz band standard for aviation",
+        "topic": "Radio Telephony techniques"
+    },
+    {
+        "question": "What does 'RESUME OWN NAVIGATION' mean in ATC instructions?",
+        "option1": "Land immediately",
+        "option2": "Continue planned route",
+        "option3": "Switch off transponder",
+        "option4": "Ascend to safe altitude",
+        "answer": "2",
+        "reference": "RT Phraseology T1.3.15 - Standard ATC instruction",
+        "topic": "RT Phraseology T1.3.15"
+    },
+    {
+        "question": "Which document details specific drone flight restrictions?",
+        "option1": "AIP",
+        "option2": "NOTAM",
+        "option3": "METAR",
+        "option4": "SIGMET",
+        "answer": "1",
+        "reference": "Airspace structure T1.3.5 - Aeronautical Information Publication",
+        "topic": "Airspace structure T1.3.5"
+    },
+    {
+        "question": "What is required before flying in controlled airspace?",
+        "option1": "ATC clearance",
+        "option2": "Visual observer",
+        "option3": "Parachute system",
+        "option4": "Night lights",
+        "answer": "1",
+        "reference": "ATC operations T1.3.1 - Mandatory authorization requirement",
+        "topic": "Understanding ATC operations T1.3.1"
+    },
+    {
+        "question": "How often should position reports be made in uncontrolled airspace?",
+        "option1": "Every minute",
+        "option2": "When requested",
+        "option3": "Every 5 minutes",
+        "option4": "Not required",
+        "answer": "4",
+        "reference": "RT Phraseology T1.3.15 - Not mandatory in Class G",
+        "topic": "RT Phraseology T1.3.15"
+    },
+    {
+        "question": "What action follows a 'MAYDAY' call?",
+        "option1": "All stations stop transmitting",
+        "option2": "Continue normal operations",
+        "option3": "Switch to backup frequency",
+        "option4": "Initiate landing sequence",
+        "answer": "1",
+        "reference": "RT techniques - Emergency priority communications",
+        "topic": "Radio Telephony techniques"
+    },
+    {
+        "question": "Which zone requires drone registration number display?",
+        "option1": "All flight zones",
+        "option2": "Yellow Zones only",
+        "option3": "Red Zones only",
+        "option4": "Controlled airspace",
+        "answer": "1",
+        "reference": "Flight regulations T1.3.10 - General requirement",
+        "topic": "Yellow Zone procedures T1.3.10"
+    },
+    {
+        "question": "What does 'SQUAWK' refer to in ATC communications?",
+        "option1": "Visual signals",
+        "option2": "Transponder code",
+        "option3": "Flight speed",
+        "option4": "Radio frequency",
+        "answer": "2",
+        "reference": "RT Phraseology T1.3.15 - Transponder identification",
+        "topic": "RT Phraseology T1.3.15"
+    },
+    {
+        "question": "Which factor most affects drone collision risk?",
+        "option1": "Camera resolution",
+        "option2": "Operator experience",
+        "option3": "Battery type",
+        "option4": "Wind speed",
+        "answer": "2",
+        "reference": "Collision avoidance T1.3.25 - Human factor importance",
+        "topic": "Collision avoidance T1.3.25"
+    },
+    {
+        "question": "What is the purpose of a flight plan submission?",
+        "option1": "Weather monitoring",
+        "option2": "Airspace coordination",
+        "option3": "Battery charging",
+        "option4": "Camera calibration",
+        "answer": "2",
+        "reference": "Flight Planning T1.3.20 - Facilitates airspace management",
+        "topic": "Flight Planning Procedures T1.3.20"
+    },
+    {
+        "question": "Which airspace requires explicit ATC permission?",
+        "option1": "Class G",
+        "option2": "Class E",
+        "option3": "Class C",
+        "option4": "Class F",
+        "answer": "3",
+        "reference": "Airspace structure T1.3.5 - Class C is controlled airspace",
+        "topic": "Airspace structure T1.3.5"
+    },
+    {
+        "question": "What is the first action when losing ATC communication?",
+        "option1": "Continue mission",
+        "option2": "Land immediately",
+        "option3": "Follow last instruction",
+        "option4": "Switch to emergency freq",
+        "answer": "3",
+        "reference": "RT techniques T1.3.25 - Standard comms failure procedure",
+        "topic": "Radio Telephony techniques"
+    },
+    {
+        "question": "Which weather minimum applies to drone VLOS operations?",
+        "option1": "5km visibility",
+        "option2": "1km visibility",
+        "option3": "No minimum",
+        "option4": "8km visibility",
+        "answer": "1",
+        "reference": "Flight regulations T1.3.10 - Visual meteorological conditions",
+        "topic": "Yellow Zone procedures T1.3.10"
+    },
+    {
+        "question": "What does 'QDM' mean in radio communications?",
+        "option1": "Magnetic heading to station",
+        "option2": "Atmospheric pressure",
+        "option3": "Radar contact lost",
+        "option4": "Permission granted",
+        "answer": "1",
+        "reference": "RT Phraseology T1.3.15 - Standard Q codes",
+        "topic": "RT Phraseology T1.3.15"
+    },
+    {
+        "question": "Which system helps prevent airspace violations?",
+        "option1": "GPS",
+        "option2": "Geo-fencing",
+        "option3": "Autopilot",
+        "option4": "Transponder",
+        "answer": "2",
+        "reference": "Airspace restrictions T1.3.5 - Automated airspace protection",
+        "topic": "Airspace structure T1.3.5"
+    },
+    {
+        "question": "What is required for BVLOS drone operations?",
+        "option1": "Higher battery capacity",
+        "option2": "Special certification",
+        "option3": "Dual cameras",
+        "option4": "Night vision",
+        "answer": "2",
+        "reference": "Flight regulations T1.3.10 - Beyond Visual Line of Sight requirements",
+        "topic": "Yellow Zone procedures T1.3.10"
+    },
+    {
+        "question": "Which altitude is referenced to ground level?",
+        "option1": "QNH",
+        "option2": "QFE",
+        "option3": "Flight Level",
+        "option4": "QNE",
+        "answer": "2",
+        "reference": "Altimeter settings T1.3.20 - QFE gives height above aerodrome",
+        "topic": "Flight Planning Procedures T1.3.20"
+    },
+    {
+        "question": "What is the standard emergency frequency?",
+        "option1": "121.5 MHz",
+        "option2": "123.45 MHz",
+        "option3": "130.0 MHz",
+        "option4": "118.0 MHz",
+        "answer": "1",
+        "reference": "RT techniques - International distress frequency",
+        "topic": "Radio Telephony techniques"
+    },
+    {
+        "question": "Who has final authority over drone operations?",
+        "option1": "ATC controller",
+        "option2": "Drone pilot",
+        "option3": "Airspace regulator",
+        "option4": "Mission planner",
+        "answer": "2",
+        "reference": "Collision avoidance T1.3.25 - Pilot-in-command responsibility",
+        "topic": "Collision avoidance T1.3.25"
+    }
+]
