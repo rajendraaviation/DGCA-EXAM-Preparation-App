@@ -1,149 +1,158 @@
 [
     {
       "question": "What gives the colour of an LED?",
-      "options": ["The active elemen", "The plastic it is encased in", "The type of gas used inside it", "None of the above"],
-      "answer": 0,
+      "option1": "The active elemen", 
+      "option2": "The plastic it is encased in", 
+      "option3": "The type of gas used inside it",
+      "answer": 1,
       "reference": "The active element is the element used in the doping of the semiconductor material. Aircraft Electricity and Electronics 5th Edition Eismin Page 121"
     },
     {
       "question": ".If voltage applied to circuit is 12V and total resistance is 40Ω then calculate total current flowing through circuit………",
-      "options": ["0.12A", "0.3A", "1A", "None of the above"],
-      "answer": 1,
+      "option1": "0.12A", 
+      "option2": "0.3A", 
+      "option3": "1A",
+      "answer": 2,
       "reference": "Ref.(9a pag.no-10-35)"
     },
     {
       "question": ".In series circuit formula for finding voltage is…",
-      "options": ["Es= IRT", "Es= VRT", "None of the above", "NA"],
-      "answer": 0,
+      "option1": "Es= IRT", 
+      "option2": "Es= VRT", 
+      "option3": "None of the above",
+      "answer": 1,
       "reference": "Ref. (9A pag.no-10-36"
     },
     {
       "question": "In an alternating current Star wired system, the phase voltage is 115 volts and the line voltage will be approximately.",
-      "options": ["200 volts", "115 volts", "163 volts", "NA"],
-      "answer": 0,
-      "reference": "Nil"
+      "option1": "200 volts", 
+      "option2": "115 volts", 
+      "option3": "163 volts",
+      "answer": 1
     },
     {
       "question": "An alternating current generator is operating at 50 kVA in a circuit with a power factor of 0.8. The real power is",
-      "options": ["40kW.", "72kW", "50kW", "NA"],
-      "answer": 0,
-      "reference": "Nil"
+      "option1": "40kW.", 
+      "option2": "72kW", 
+      "option3": "50kW",
+      "answer": 1
     },
     {
       "question": "The two factors which govern the output frequency of an AC generator are the.",
-      "options": [
-        "the number of poles (in pairs) and the rotor RPM.",
-        "strength of the stator field flux and number of poles",
-        "speed of rotation of the rotor and the stator field flux strength",
-        "NA"
-      ],
-      "answer": 0,
-      "reference": "Nil"
+      "option1":"the number of poles (in pairs) and the rotor RPM.",
+      "option2": "strength of the stator field flux and number of poles",
+      "option3":  "speed of rotation of the rotor and the stator field flux strength",
+      "answer": 1
     },
     {
       "question": "In a deltaconnected generator",
-      "options": [
-        "line voltage = root 3 times phase voltage, line current = phase current",
-        "line volts = phase volts, line current = phase current divided by root 3",
-        "line volts = phase volts, line current = root 3 times phase current",
-        "NA"
-      ],
-      "answer": 0,
-      "reference": "Nil"
+      "option1": "line voltage = root 3 times phase voltage, line current = phase current",
+      "option2": "line volts = phase volts, line current = phase current divided by root 3",
+      "option3": "line volts = phase volts, line current = root 3 times phase current",
+      "answer": 1
     },
     {
       "question": "When measuring the phase and line voltages of a generator, it was found that line and phase voltages were equal. The generator is?",
-      "options": [
-        "either delta or star wound",
-        "delta wound.",
-        "star wound",
-        "NA"
-      ],
-      "answer": 1,
-      "reference": "Nil"
+      "option1": "either delta or star wound",
+      "option2": "delta wound.",
+      "option3": "star wound",
+      "answer": 2
     },
     {
       "question": "The permanent magnet in an A.C generator induces.",
-      "options": [
-        "A.C. in the main generator",
-        "A.C. in the exciter generator",
-        "D.C. in the exciter generator",
-        "NA"
-      ],
-      "answer": 1,
-      "reference": "Nil"
+      "option1": "A.C. in the main generator",
+      "option2": "A.C. in the exciter generator",
+      "option3": "D.C. in the exciter generator",
+      "answer": 2
     },
     {
       "question": "If the phase voltage in a star connected generator is 200V what will be the line voltage?",
-      "options": ["115V", "346V", "200V", "NA"],
-      "answer": 1,
+      "option1": "115V", 
+      "option2": "346V", 
+      "option3": "200V",
+      "answer": 2,
       "reference": "Star connected generator - line voltage is 1.73 * phase voltage"
     },
     {
       "question": "A generator is labeled as having 115V/200V, 20A and PF 0.8. What is the apparent power in each line that the generator can produce?",
-      "options": ["2.3kVA", "2.3kW", "4kVA", "NA"],
-      "answer": 2,
+      "option1": "2.3kVA", 
+      "option2": "2.3kW", 
+      "option3": "4kVA",
+      "answer": 3,
       "reference": "Apparent power is measured in VA. Line voltage is 200V (always the higher of the two voltages - and the presence of 2 voltages confirms it as star wound). So 200 * 20 = 4 KVA (PF not required)."
     },
     {
       "question": "AC generators are rated in.",
-      "options": ["kVA", "kVARs", "kW", "NA"],
-      "answer": 0,
-      "reference": "Nil"
+      "option1": "kVA", 
+      "option2": "kVARs", 
+      "option3": "kW",
+      "answer": 1
     },
     {
       "question": "The frequency of the output of a 4 pole generator is 400 Hz. The generator is turning at.",
-      "options": ["6000 RPM", "12000 RPM", "3000 RPM", "NA"],
-      "answer": 1,
+      "option1": "6000 RPM", 
+      "option2": "12000 RPM", 
+      "option3": "3000 RPM",
+      "answer": 2,
       "reference": "Get the formula for frequency"
     },
     {
       "question": "The voltage induced in the stator of an AC generator is produced by.",
-      "options": ["an alternating field", "a rotating magnetic field", "a fixed magnetic field", "NA"],
-      "answer": 1,
-      "reference": "Nil"
+      "option1": "an alternating field", 
+      "option2": "a rotating magnetic field", 
+      "option3": "a fixed magnetic field",
+      "answer": 2
     },
     {
       "question": "A 30 KVA rated generator has a power factor of 0.8. What is its maximum consistent power?.",
-      "options": ["30 KW", "37.5 KW", "24 KW", "NA"],
-      "answer": 2,
+      "option1": "30 KW", 
+      "option2": "37.5 KW", 
+      "option3": "24 KW",
+      "answer": 3,
       "reference": "Power factor = true power /apparent power"
     },
     {
       "question": "The three voltages of a three phase generator are connected",
-      "options": ["in series with each other", "independently of each other", "in parallel with each other", "NA"],
-      "answer": 1,
-      "reference": "Nil"
+      "option1":"in series with each other", 
+      "option2": "independently of each other", 
+      "option3": "in parallel with each other",
+      "answer": 2
     },
     {
       "question": "In a 2 phase generator, how far apart are the windings electrically?.",
-      "options": ["45°", "180°", "90°", "NA"],
-      "answer": 2,
-      "reference": "Nil"
+      "option1": "45°", 
+      "option2": "180°", 
+      "option3": "90°",
+      "answer": 3
     },
     {
       "question": "Where are the output windings on an AC generator?",
-      "options": ["Rotor with slip rings", "Rotor with commutator", "Stator", "NA"],
-      "answer": 2,
-      "reference": "Nil"
+      "option1": "Rotor with slip rings", 
+      "option2": "Rotor with commutator", 
+      "option3": "Stator",
+      "answer": 3
     },
     {
       "question": "The line voltage from a generator with a delta type connection will be.",
-      "options": ["lower than the phase voltage", "higher than the phase voltage", "the same as the phase voltage", "NA"],
-      "answer": 2,
+      "option1": "lower than the phase voltage", 
+      "option2": "higher than the phase voltage", 
+      "option3": "the same as the phase voltage",
+      "answer": 3,
       "reference": "Line and phase voltages are the same with a delta connections (it is the current that is different)."
     },
     {
       "question": "An advantage of a star connected generator over a delta connected generator is",
-      "options": ["the line and phase voltages are equal", "two potentials are available", "a balance load is guaranteed", "NA"],
-      "answer": 1,
-      "reference": "Nil"
+      "option1": "the line and phase voltages are equal", 
+      "option2": "two potentials are available", 
+      "option3": "a balance load is guaranteed",
+      "answer": 2
     },
     {
       "question": "Permanent magnets in an AC generator are",
-      "options": ["to provide initial excitation", "to control the frequency", "to rectify the current", "NA"],
-      "answer": 0,
-      "reference": "Nil"
+      "option1": "to provide initial excitation", 
+      "option2": "to control the frequency", 
+      "option3": "to rectify the current",
+      "answer": 1
     }
   ]
   

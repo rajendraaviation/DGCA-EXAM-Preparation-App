@@ -1,149 +1,264 @@
 [
     {
-      "question": ".In a parallel circuit general formula for calculating current is ….",
-      "options": ["IT=I1+I2+I3……In", "IT=0", "IT=VT", "None of the above"],
-      "answer": 0,
-      "reference": "Ref(9A pag.no-10-41)"
+        "option1": "Smaller",
+        "option2": "Greater",
+        "option3": "None of the above",
+        "reference": "Read EASA 1.5",
+        "question": "The temperature variation near earth surface",
+        "answer": "2",
+        "topic": "Temperature and altitude"
     },
     {
-      "question": ".If voltage applied to circuit is 12V and total resistance is 40Ω then calculate total current flowing through circuit………",
-      "options": ["0.12A", "0.3A", "1A", "None of the above"],
-      "answer": 1,
-      "reference": "Ref.(9a pag.no-10-35)"
+        "option1": "Temperature, pressure",
+        "option2": "Temperature, Pressure, Density",
+        "option3": "Temperature, Density",
+        "reference": "Basically Temperature, Pressure, Density are flow properties",
+        "question": "What are the flow properties considered in ISA",
+        "answer": "2",
+        "topic": "Physics of atmosphere"
     },
     {
-      "question": ".In series circuit formula for finding voltage is…",
-      "options": ["Es= IRT", "Es= VRT", "None of the above", "NA"],
-      "answer": 0,
-      "reference": "Ref. (9A pag.no-10-36"
+        "option1": "15°C",
+        "option2": "45°C",
+        "option3": "18°C",
+        "reference": "Read A.C Kermode Page no.33",
+        "question": "ISA sea level temperature is",
+        "answer": "1",
+        "topic": "Physics of atmosphere"
     },
     {
-      "question": "In an alternating current Star wired system, the phase voltage is 115 volts and the line voltage will be approximately.",
-      "options": ["200 volts", "115 volts", "163 volts", "NA"],
-      "answer": 0,
-      "reference": "Nil"
+        "option1": "Viscosity",
+        "option2": "Pressure",
+        "option3": "Density",
+        "reference": "Read A.C Kermode Page no.30",
+        "question": "The property of air which makes all flight possible",
+        "answer": "3",
+        "topic": "Density of the air"
     },
     {
-      "question": "An alternating current generator is operating at 50 kVA in a circuit with a power factor of 0.8. The real power is",
-      "options": ["40kW.", "72kW", "50kW", "NA"],
-      "answer": 0,
-      "reference": "Nil"
+        "option1": "For identification",
+        "option2": "For making standardization for measurement",
+        "option3": "None of the above",
+        "reference": "Read EASA 1.6",
+        "question": "What is the purpose of making ISA",
+        "answer": "2",
+        "topic": "Physics of atmosphere"
     },
     {
-      "question": "The two factors which govern the output frequency of an AC generator are the.",
-      "options": [
-        "the number of poles (in pairs) and the rotor RPM.",
-        "strength of the stator field flux and number of poles",
-        "speed of rotation of the rotor and the stator field flux strength",
-        "NA"
-      ],
-      "answer": 0,
-      "reference": "Nil"
+        "option1": "1.98 degree C",
+        "option2": "-5.6 degree C",
+        "option3": "-6.5 degree C",
+        "reference": "Read Kermode Page no.31",
+        "question": "Lapse rate at 1000ft is",
+        "answer": "1",
+        "topic": "Pressure"
     },
     {
-      "question": "In a deltaconnected generator",
-      "options": [
-        "line voltage = root 3 times phase voltage, line current = phase current",
-        "line volts = phase volts, line current = phase current divided by root 3",
-        "line volts = phase volts, line current = root 3 times phase current",
-        "NA"
-      ],
-      "answer": 0,
-      "reference": "Nil"
+        "option1": "1.98 degree C",
+        "option2": "-5.6 degree C",
+        "option3": "-6.5 degree C",
+        "reference": "Read A.C Kermode Page no.33",
+        "question": "Lapse rate at 1000M is?",
+        "answer": "3",
+        "topic": "Temperature changes in the atmosphere"
     },
     {
-      "question": "When measuring the phase and line voltages of a generator, it was found that line and phase voltages were equal. The generator is?",
-      "options": [
-        "either delta or star wound",
-        "delta wound.",
-        "star wound",
-        "NA"
-      ],
-      "answer": 1,
-      "reference": "Nil"
+        "option1": "Barometer",
+        "option2": "Ammeter",
+        "option3": "Hygrometer",
+        "reference": "Read EASA 1.2",
+        "question": "Pressure measuring instrument",
+        "answer": "1",
+        "topic": "pressure"
     },
     {
-      "question": "The permanent magnet in an A.C generator induces.",
-      "options": [
-        "A.C. in the main generator",
-        "A.C. in the exciter generator",
-        "D.C. in the exciter generator",
-        "NA"
-      ],
-      "answer": 1,
-      "reference": "Nil"
+        "option1": "Smaller",
+        "option2": "Greater",
+        "option3": "Constant",
+        "reference": "Read EASA 1.2",
+        "question": "The rate at which the pressure decreases is much __________ near the earths surface than at altitude",
+        "answer": "2",
+        "topic": "Physics of the atmosphere"
     },
     {
-      "question": "If the phase voltage in a star connected generator is 200V what will be the line voltage?",
-      "options": ["115V", "346V", "200V", "NA"],
-      "answer": 1,
-      "reference": "Star connected generator - line voltage is 1.73 * phase voltage"
+        "option1": "TAS decrease than IAS",
+        "option2": "TAS greater than IAS",
+        "option3": "Both are same",
+        "reference": "Read A.C Kermode Page no.43 ,TAS\u003d true air speed and IAS \u003dIndicated Air Speed",
+        "question": "As altitude increase then",
+        "answer": "2",
+        "topic": "Air Speed Indicator Corrections"
     },
     {
-      "question": "A generator is labeled as having 115V/200V, 20A and PF 0.8. What is the apparent power in each line that the generator can produce?",
-      "options": ["2.3kVA", "2.3kW", "4kVA", "NA"],
-      "answer": 2,
-      "reference": "Apparent power is measured in VA. Line voltage is 200V (always the higher of the two voltages - and the presence of 2 voltages confirms it as star wound). So 200 * 20 = 4 KVA (PF not required)."
+        "option1": "Scalar quantity",
+        "option2": "Vector Quantity",
+        "option3": "both",
+        "reference": "Read A.C Kermode Page no.20 ,Pressure is a scalar quantity. That means that it has a magnitude, but unlikea vector, there is no direction involved",
+        "question": "Pressure is a",
+        "answer": "1",
+        "topic": "Fluid pressure"
     },
     {
-      "question": "AC generators are rated in.",
-      "options": ["kVA", "kVARs", "kW", "NA"],
-      "answer": 0,
-      "reference": "Nil"
+        "option1": "Parasite drag",
+        "option2": "Induced drag",
+        "option3": "Infinite drag",
+        "reference": "Read EASA 2.16",
+        "question": "The drag which is inversely proportional to square of velocity",
+        "answer": "2",
+        "topic": "Induced Drag"
     },
     {
-      "question": "The frequency of the output of a 4 pole generator is 400 Hz. The generator is turning at.",
-      "options": ["6000 RPM", "12000 RPM", "3000 RPM", "NA"],
-      "answer": 1,
-      "reference": "Get the formula for frequency"
+        "option1": "Wingtip vortices",
+        "option2": "Wingtip vortices and induced drag",
+        "option3": "Induced drag",
+        "reference": "Read A.C Kermode Page no.101,the air would flow over it without any inward or outward deflection, there would be no wing-tip vortices, no induced drag",
+        "question": "If an aircraft having infinite aspect ratio then it will not be subjected to",
+        "answer": "2",
+        "topic": "Induced drag"
     },
     {
-      "question": "The voltage induced in the stator of an AC generator is produced by.",
-      "options": ["an alternating field", "a rotating magnetic field", "a fixed magnetic field", "NA"],
-      "answer": 1,
-      "reference": "Nil"
+        "option1": "Longitudinal",
+        "option2": "Roll",
+        "option3": "Pitch",
+        "reference": "Read A.C Kermode Page no.273",
+        "question": "Aileron provide which control",
+        "answer": "2",
+        "topic": "Control of an aeroplane"
     },
     {
-      "question": "A 30 KVA rated generator has a power factor of 0.8. What is its maximum consistent power?.",
-      "options": ["30 KW", "37.5 KW", "24 KW", "NA"],
-      "answer": 2,
-      "reference": "Power factor = true power /apparent power"
+        "option1": "Lateral control in longitudinal plane",
+        "option2": "Longitudinal control in lateral plane",
+        "option3": "both",
+        "reference": "Read A.C Kermode page no.259 and 273",
+        "question": "The aileron control is used to provide control around",
+        "answer": "1",
+        "topic": "Stability and control"
     },
     {
-      "question": "The three voltages of a three phase generator are connected",
-      "options": ["in series with each other", "independently of each other", "in parallel with each other", "NA"],
-      "answer": 1,
-      "reference": "Nil"
+        "option1": "Less than 10% of total drag",
+        "option2": "Less than 25% of total drag",
+        "option3": "More than 25% of total drag",
+        "reference": "Read EASA 2.16,in the cruise and descent where it 10% of total drag and in climb it is more important at least 20% of total drag",
+        "question": "At high speed the induced drag",
+        "answer": "1",
+        "topic": "Induced drag"
     },
     {
-      "question": "In a 2 phase generator, how far apart are the windings electrically?.",
-      "options": ["45°", "180°", "90°", "NA"],
-      "answer": 2,
-      "reference": "Nil"
+        "option1": "Doubled",
+        "option2": "Halved",
+        "option3": "Not affected",
+        "reference": "Read A.C Kermode Page no.104",
+        "question": "If the aspect ratio ---------------, the induced drag will be halved",
+        "answer": "2",
+        "topic": "Induced drag"
     },
     {
-      "question": "Where are the output windings on an AC generator?",
-      "options": ["Rotor with slip rings", "Rotor with commutator", "Stator", "NA"],
-      "answer": 2,
-      "reference": "Nil"
+        "option1": "Transition point/bubble point",
+        "option2": "Turbulent flow",
+        "option3": "None of the above",
+        "reference": "Read A.C Kermode Page no.433",
+        "question": "The point at which laminar flow is changed to turbulent is?",
+        "answer": "1",
+        "topic": "Scale effect and Reynolds number"
     },
     {
-      "question": "The line voltage from a generator with a delta type connection will be.",
-      "options": ["lower than the phase voltage", "higher than the phase voltage", "the same as the phase voltage", "NA"],
-      "answer": 2,
-      "reference": "Line and phase voltages are the same with a delta connections (it is the current that is different)."
+        "option1": "Wash in",
+        "option2": "Wash out",
+        "option3": "Both",
+        "reference": "Read EASA 2.8, If the angle of incidence is less wingtip to wing root is called washout and the wing tip angle of incidence is greater than at the wing root, it\u0027s called wash in.",
+        "question": "The increase of angle of incidence from root to tip",
+        "answer": "1",
+        "topic": "Airfoils"
     },
     {
-      "question": "An advantage of a star connected generator over a delta connected generator is",
-      "options": ["the line and phase voltages are equal", "two potentials are available", "a balance load is guaranteed", "NA"],
-      "answer": 1,
-      "reference": "Nil"
+        "option1": "Angle of incidence",
+        "option2": "Angle of attack",
+        "option3": "Longitudinal dihedral",
+        "reference": "Read EASA 2.11",
+        "question": "The angle between chord line and relative air flow is",
+        "answer": "2",
+        "topic": "GENERATION OF LIFT AND DRAG"
     },
     {
-      "question": "Permanent magnets in an AC generator are",
-      "options": ["to provide initial excitation", "to control the frequency", "to rectify the current", "NA"],
-      "answer": 0,
-      "reference": "Nil"
+        "option1": "Angle of incidence",
+        "option2": "Angle of attack",
+        "option3": "Longitudinal dihedral",
+        "reference": "Read EASA 2.8",
+        "question": "The angle between chord line and Longitudinal axis is?",
+        "answer": "1",
+        "topic": "Aerodynamic terms"
+    },
+    {
+        "option1": "Camber line",
+        "option2": "Chord line",
+        "option3": "Angle of attack",
+        "reference": "Read EASA 2.7",
+        "question": "The straight line which goes from the leading edge of the wing to the trailing edge is called?",
+        "answer": "2",
+        "topic": "Aerodynamic Terms"
+    },
+    {
+        "option1": "Camber",
+        "option2": "Chord",
+        "option3": "Boundary layer",
+        "reference": "Read A.C Kermode Page no.50",
+        "question": "The layer of air over the surface of an airfoil which is slower moving inrelation to the rest of the airflow is known as",
+        "answer": "3",
+        "topic": "Skin friction and boundary layer"
+    },
+    {
+        "option1": "Span must be remains same",
+        "option2": "Span must be reduced",
+        "option3": "Aspect ratio must be higher",
+        "reference": "Read A.C Kermode Page no.99",
+        "question": "If induced drag is reduced",
+        "answer": "3",
+        "topic": "Induced drag"
+    },
+    {
+        "option1": "Supersonic turbojet engine",
+        "option2": "Subsonic aircrafts",
+        "option3": "Non of the above",
+        "reference": "Read A.C Kermode Page no.433",
+        "question": "MTCS-higher Reynolds number",
+        "answer": "1",
+        "topic": "Scale effect and Reynolds Number"
+    },
+    {
+        "option1": "Lift",
+        "option2": "Weight",
+        "option3": "Thrust",
+        "reference": "Read A.C Kermode Page no.99",
+        "question": "Induced drag is a part of",
+        "answer": "1",
+        "topic": "Induced drag"
+    },
+    {
+        "option1": "More camber",
+        "option2": "Less camber",
+        "option3": "No camber",
+        "reference": "Read A.C Kermode Page no.97",
+        "question": "NACA 0009 airfoil is having",
+        "answer": "3",
+        "topic": "Design and nomenclature of aerofoil sections"
+    },
+    {
+        "option1": "9.7 psi",
+        "option2": "10.8 psi",
+        "option3": "2.72 psi",
+        "option4": "1.72 psi",
+        "reference": "Read EASA 1.4 , at sea level pressure 14.7psi,while at 40,000 ft as the dotted lines show, the pressure is only 2.72psi",
+        "question": "at 40,000ft atmospheric pressure is?",
+        "answer": "3",
+        "topic": "Physics of the atmosphere"
+    },
+    {
+        "option1": "Stalling angle",
+        "option2": "Critical angle",
+        "option3": "both",
+        "reference": "The critical angle of attack is the angle of attack which produces the maximum lift coefficient. This is also called the stallangle of attack. Below the critical angle of attack",
+        "question": "When the AOA increases to the angle of maximum lift this is known as",
+        "answer": "3",
+        "topic": "Basic Aerodynamics"
     }
-  ]
-  
+]
