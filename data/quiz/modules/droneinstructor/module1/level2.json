@@ -1,54 +1,68 @@
 [
-  {
-      "question": "What is the minimum age requirement for obtaining a Remote Pilot License in India?",
-      "options": ["16 years", "18 years", "21 years", "25 years"],
-      "answer": 1,
-      "reference": "The minimum age requirement for obtaining a Remote Pilot License (RPL) in India is 18 years as per DGCA guidelines&#8203;:contentReference[oaicite:0]{index=0}."
-  },
-  {
-      "question": "Which certification is mandatory for drone operations in controlled airspace?",
-      "options": ["UIN", "UAOP", "NPNT", "COA"],
-      "answer": 1,
-      "reference": "An Unmanned Aircraft Operator Permit (UAOP) is required for drone operations in controlled airspace&#8203;:contentReference[oaicite:1]{index=1}."
-  },
-  {
-      "question": "What does 'Digital Sky' refer to in the context of drone regulations?",
-      "options": [
-          "A new satellite communication system",
-          "An automated air traffic control system",
-          "A platform for registering and approving drone operations",
-          "A drone pilot training program"
-      ],
+    {
+      "topic": "Training",
+      "question": "How many hours of theory training are required for a BVLOS (Cat-2) license?",
+      "publisherName": "Rajendra Kumar Dangi",
+      "option1": "50 hours",
+      "option2": "106 hours",
+      "option3": "150 hours",
+      "option4": "200 hours",
       "answer": 2,
-      "reference": "Digital Sky is the national unmanned traffic management (UTM) platform designed for the registration, operation, and management of drones&#8203;:contentReference[oaicite:2]{index=2}."
-  },
-  {
-      "question": "Which category of drones requires real-time tracking and geo-fencing features?",
-      "options": ["Nano", "Micro", "Small", "Medium and above"],
-      "answer": 3,
-      "reference": "Drones categorized as Medium (greater than 25kg) and above require real-time tracking and geo-fencing as per DGCA guidelines&#8203;:contentReference[oaicite:3]{index=3}."
-  },
-  {
-      "question": "What is the maximum speed allowed for drones operating in the Green Zone?",
-      "options": ["25 m/s", "50 m/s", "60 m/s", "100 m/s"],
-      "answer": 0,
-      "reference": "Drones operating in the Green Zone are restricted to a maximum speed of 25 meters per second&#8203;:contentReference[oaicite:4]{index=4}."
-  },
-  {
-      "question": "What is the penalty for unauthorized drone operations in restricted airspace?",
-      "options": [
-          "Fine up to INR 25,000",
-          "License suspension",
-          "Confiscation of drone and legal action",
-          "All of the above"
-      ],
-      "answer": 3,
-      "reference": "Unauthorized drone operations in restricted airspace may result in fines, suspension of licenses, confiscation, and legal action&#8203;:contentReference[oaicite:5]{index=5}."
-  },
-  {
-      "question": "Which of the following is NOT a recognized category of drone classification in India?",
-      "options": ["Nano", "Micro", "Compact", "Large"],
+      "reference": "DTC-02-of-2022-Syllabus, Section 5: Cat-2 requires 106 theory hours."
+    },
+    {
+      "topic": "Training",
+      "question": "Which subject covers 'Loss of C2-link' emergencies?",
+      "publisherName": "Rajendra Kumar Dangi",
+      "option1": "Weather",
+      "option2": "Risk Assessment",
+      "option3": "Payloads",
+      "option4": "Aerodynamics",
       "answer": 2,
-      "reference": "DGCA classifies drones into Nano, Micro, Small, Medium, and Large categories&#8203;:contentReference[oaicite:6]{index=6}."
-  }
+      "reference": "DTC-02 Syllabus, Annexure-I: Risk Assessment covers emergencies."
+    },
+    {
+      "topic": "Airspace Zones",
+      "question": "Which zone allows drone operations without prior permission?",
+      "publisherName": "Rajendra Kumar Dangi",
+      "option1": "Red Zone",
+      "option2": "Yellow Zone",
+      "option3": "Green Zone",
+      "option4": "Blue Zone",
+      "answer": 3,
+      "reference": "Drone Rules 2021, Part V, Rule 22(2): Green Zone is permission-free."
+    },
+    {
+      "topic": "Airspace Zones",
+      "question": "What is the vertical limit for Green Zone operations near airports?",
+      "publisherName": "Rajendra Kumar Dangi",
+      "option1": "60 meters",
+      "option2": "120 meters",
+      "option3": "200 meters",
+      "option4": "400 meters",
+      "answer": 1,
+      "reference": "Drone Rules 2021, Part I, Definitions: 200 ft (60m) near airports."
+    },
+        {
+          "topic": "Penalties",
+          "question": "What is the maximum penalty for violating drone rules?",
+          "publisherName": "Rajendra Kumar Dangi",
+          "option1": "₹10,000",
+          "option2": "₹50,000",
+          "option3": "₹1,00,000",
+          "option4": "₹5,00,000",
+          "answer": 3,
+          "reference": "Drone Rules 2021, Part XII, Rule 50: Penalty cap is ₹1 lakh."
+        },
+        {
+          "topic": "Compliance",
+          "question": "Which document is required for drone registration?",
+          "publisherName": "Rajendra Kumar Dangi",
+          "option1": "Aadhaar Card",
+          "option2": "GST-paid Invoice",
+          "option3": "Passport",
+          "option4": "Voter ID",
+          "answer": 2,
+          "reference": "Drone Rules 2021, Part IV, Rule 16(2)(b): GST invoice mandatory."
+        }
 ]

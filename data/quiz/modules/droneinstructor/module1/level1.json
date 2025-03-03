@@ -10,6 +10,17 @@
   "reference": "Drone Rules 2021, Part VI, Rule 33(a): Minimum age is 18 years."
 },
 {
+  "topic": "Remote Pilot License",
+  "question": "How long is an RPL valid before renewal?",
+  "publisherName": "Rajendra Kumar Dangi",
+  "option1": "5 years",
+  "option2": "10 years",
+  "option3": "15 years",
+  "option4": "20 years",
+  "answer": 2,
+  "reference": "Drone Rules 2021, Part VI, Rule 35(b): Validity is 10 years."
+},
+{
   "topic": "Drone Classification",
   "question": "What is the maximum weight limit for a 'Nano' category drone?",
   "publisherName": "Rajendra Kumar Dangi",
