@@ -1,76 +1,89 @@
-[
-  {
-      "topic" : "electronic fundamentals",
-      "question": "What is the minimum age requirement for obtaining a Remote Pilot License in India?",
-      "questionImage" : "https://media-hosting.imagekit.io//ea39e30b0e174765/visit%20our%20fb%20page.jpg?Expires=1832430134&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=PUQ2U3y5t4LZdQl5M48O6lE~b-JMiX9Su7wv3hejcm~mwuMBzry3pWYEzI7R8ZftDCH8lZD8TpdkBjVQvq7WvPKbMNaewWBkGSHcz1YsLoJBGbSzVZCDGqx6HGqjQoLLKmQOFio0IgPBDWu8h0aGrTZELSn15Umy8bxYMBC4a2kFvN2ZvXc0qVYx-SQNHNHuJ5dMsLHWTI-sFLdM~mFiBv0SZaVvqUSH2zGTocoGJgVDGfzgs1v3UejfC9MLYkbQBILgdVecryJzT6NLOJYoi5P5dkUFyb0j-YRhg-OcvPNf1AquRPsllx~gxRby~pU9f6cPJ69zUx8ot5ICZhqChg__",
-      "publisherName" : "Rajendra Kumar Dangi",
-      "option1": "16 years",
-      "option2" : " 18 years",
-      "option3" : " 21 years",
-      "option4" : " 21 years",
-      "answer": 1,
-      "reference": "The minimum age requirement for obtaining a Remote Pilot License (RPL) in India is 18 years as per DGCA guidelines&#8203;:contentReference[oaicite:0]{index=0}."
-
-  },
-  {
-  "topic":"electroanic fundamentals",
-      "question": "What is the minimum age requirement for obtaining a Remote Pilot License in India?",
-      "questionImage" : "https://media-hosting.imagekit.io//ea39e30b0e174765/visit%20our%20fb%20page.jpg?Expires=1832430134&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=PUQ2U3y5t4LZdQl5M48O6lE~b-JMiX9Su7wv3hejcm~mwuMBzry3pWYEzI7R8ZftDCH8lZD8TpdkBjVQvq7WvPKbMNaewWBkGSHcz1YsLoJBGbSzVZCDGqx6HGqjQoLLKmQOFio0IgPBDWu8h0aGrTZELSn15Umy8bxYMBC4a2kFvN2ZvXc0qVYx-SQNHNHuJ5dMsLHWTI-sFLdM~mFiBv0SZaVvqUSH2zGTocoGJgVDGfzgs1v3UejfC9MLYkbQBILgdVecryJzT6NLOJYoi5P5dkUFyb0j-YRhg-OcvPNf1AquRPsllx~gxRby~pU9f6cPJ69zUx8ot5ICZhqChg__",
-      "publisherName" : "Rajendra Kumar Dangi",
-      "option1": "10 years",
-      "option2" : " 1 years",
-      "option3" : " 11 years",
-      "option4" : " 12 years",
-      "answer": 2,
-      "reference": "The minimum age requirement for obtaining a Remote Pilot License (RPL) in India is 18 years as per DGCA guidelines&#8203;:contentReference[oaicite:0]{index=0}."
-    },
-    {
-      "topic":"Test",
-          "question": "What is the minimum age requirement for obtaining a Remote Pilot License in India?",
-          "publisherName" : "Rajendra Kumar Dangi",
-          "option1": "10 years",
-          "option2" : " 1 years",
-          "option3" : " 11 years",
-          "option4" : " 12 years",
-          "answer": 2,
-          "reference": "The minimum age requirement for obtaining a Remote Pilot License (RPL) in India is 18 years as per DGCA guidelines&#8203;:contentReference[oaicite:0]{index=0}."
-        },
-        {
-        "question": "What is the minimum age requirement for obtaining a Remote Pilot License in India?",
-        "publisherName" : "Rajendra Kumar Dangi",
-        "option1": "10 years",
-        "option2" : " 1 years",
-        "option3" : " 11 years",
-        "option4" : " 12 years",
-        "answer": 2,
-        "reference": "The minimum age requirement for obtaining a Remote Pilot License (RPL) in India is 18 years as per DGCA guidelines&#8203;:contentReference[oaicite:0]{index=0}."
-      } ,
-      {
-      "question": "What is the minimum age requirement for obtaining a Remote Pilot License in India?",
-      "publisherName" : "Rajendra Kumar Dangi",
-      "option1": "10 years",
-      "option2" : " 1 years",
-      "option3" : " 11 years",
-      "option4" : " 12 years",
-      "answer": 2,
-      "reference": "The minimum age requirement for obtaining a Remote Pilot License (RPL) in India is 18 years as per DGCA guidelines&#8203;:contentReference[oaicite:0]{index=0}."
-    },
-    {
-      "question": "What is the minimum age requirement for obtaining a Remote Pilot License in India?",
-      "publisherName" : "Rajendra Kumar Dangi",
-      "option1": "10 years",
-      "option2" : " 1 years",
-      "option3" : " 11 years",
-      "answer": 2,
-      "reference": "The minimum age requirement for obtaining a Remote Pilot License (RPL) in India is 18 years as per DGCA guidelines&#8203;:contentReference[oaicite:0]{index=0}."
-    },
-    {
-      "question": "What is the minimum age requirement for obtaining a Remote Pilot License in India?",
-      "publisherName" : "Rajendra Kumar Dangi",
-      "option1": "10 years",
-      "option2" : " 1 years",
-      "option3" : " 11 years",
-      "option4" : " 12 years",
-      "answer": 2
-    }
+[{
+  "topic": "Remote Pilot License Eligibility",
+  "question": "What is the minimum age requirement for obtaining a Remote Pilot License (RPL) in India?",
+  "publisherName": "Rajendra Kumar Dangi",
+  "option1": "16 years",
+  "option2": "18 years",
+  "option3": "21 years",
+  "option4": "25 years",
+  "answer": 2,
+  "reference": "Drone Rules 2021, Part VI, Rule 33(a): Minimum age is 18 years."
+},
+{
+  "topic": "Drone Classification",
+  "question": "What is the maximum weight limit for a 'Nano' category drone?",
+  "publisherName": "Rajendra Kumar Dangi",
+  "option1": "100 grams",
+  "option2": "250 grams",
+  "option3": "500 grams",
+  "option4": "2 kilograms",
+  "answer": 2,
+  "reference": "Drone Rules 2021, Part II, Rule 5(a): Nano drones must weigh ≤250 grams."
+},
+{
+  "topic": "Airspace Zones",
+  "question": "Which zone requires prior permission for drone operations?",
+  "publisherName": "Rajendra Kumar Dangi",
+  "option1": "Green Zone",
+  "option2": "Yellow Zone",
+  "option3": "Blue Zone",
+  "option4": "White Zone",
+  "answer": 2,
+  "reference": "Drone Rules 2021, Part V, Rule 22: Yellow Zone mandates prior approval."
+},
+{
+  "topic": "Insurance",
+  "question": "Which drone category is exempt from mandatory third-party insurance?",
+  "publisherName": "Rajendra Kumar Dangi",
+  "option1": "Nano",
+  "option2": "Micro",
+  "option3": "Small",
+  "option4": "Large",
+  "answer": 1,
+  "reference": "Drone Rules 2021, Part X, Rule 44(1): Nano drones may operate without insurance."
+},
+{
+  "topic": "Training Requirements",
+  "question": "How many hours of theory training are required for a BVLOS (Cat-2) license?",
+  "publisherName": "Rajendra Kumar Dangi",
+  "option1": "50 hours",
+  "option2": "106 hours",
+  "option3": "150 hours",
+  "option4": "200 hours",
+  "answer": 2,
+  "reference": "DTC-02-of-2022-Syllabus, Section 5: Cat-2 requires 106 theory hours."
+},
+{
+  "topic": "Penalties",
+  "question": "What is the maximum penalty for violating drone rules under Section 10A of the Aircraft Act?",
+  "publisherName": "Rajendra Kumar Dangi",
+  "option1": "₹10,000",
+  "option2": "₹50,000",
+  "option3": "₹1,00,000",
+  "option4": "₹5,00,000",
+  "answer": 3,
+  "reference": "Drone Rules 2021, Part XII, Rule 50: Penalty cap is ₹1 lakh."
+},
+{
+  "topic": "Registration",
+  "question": "What is the deadline for registering drones imported before November 30, 2021?",
+  "publisherName": "Rajendra Kumar Dangi",
+  "option1": "15 days",
+  "option2": "30 days",
+  "option3": "60 days",
+  "option4": "90 days",
+  "answer": 2,
+  "reference": "Drone Rules 2021, Part IV, Rule 16(1): 31-day registration window."
+},
+{
+  "topic": "Flight Restrictions",
+  "question": "What is the maximum altitude allowed for drone operations in Green Zones?",
+  "publisherName": "Rajendra Kumar Dangi",
+  "option1": "120 meters",
+  "option2": "200 meters",
+  "option3": "400 meters",
+  "option4": "500 meters",
+  "answer": 1,
+  "reference": "Drone Rules 2021, Part I, Definitions: Green Zone limit is 400 ft (120m)."
+}
 ]
